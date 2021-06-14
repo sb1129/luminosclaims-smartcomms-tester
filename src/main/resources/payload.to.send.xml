@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns3:Correspondence xmlns:ns2="http://www.gallagherbasset.com.au/smartcommsappliance" xmlns:ns3="http://www.gallagherbasset.com.au/smartcommsintegrations">
+    <RequestDetails>
+        <RequestGenerationTime>2019-07-30T16:43:46.838+10:00</RequestGenerationTime>
+        <Region>gen</Region>
+        <Client>gi</Client>
+        <Channel>Web</Channel>
+        <TemplateId>157958768</TemplateId>
+        <Recipients>alfredo_rivas@gbtpa.com.au</Recipients>
+        <EmailRecipients>
+            <Recipient>
+                <CustomerNumber>137</CustomerNumber>
+                <PartyName>Chubbs</PartyName>
+                <Organisation>
+                    <ShortName>Chubbs</ShortName>
+                    <Name>Chubbs</Name>
+                    <ABN>ABN100</ABN>
+                    <BankAccount>ANZ1459789</BankAccount>
+                </Organisation>
+                <Address>
+                    <StreetAddress>1 Eagle Street</StreetAddress>
+                    <Suburb>Brisbane City</Suburb>
+                    <State>Queensland</State>
+                    <PostCode>4000</PostCode>
+                    <Country>Australia</Country>
+                    <AsString>1 Eagle Street, Brisbane City, Queensland, Australia, 4000</AsString>
+                </Address>
+                <MobileNumber>074553470</MobileNumber>
+                <MobileNumberCountryCode>61</MobileNumberCountryCode>
+                <Email>alfredo_rivas@gbtpa.com.au</Email>
+            </Recipient>
+        </EmailRecipients>
+        <SenderAddress>email_test_gen89-si@gbtpa.com.au</SenderAddress>
+        <Subject>Our ref: LU051058-07 New Claim Acknowledgement</Subject>
+        <ResponseBody></ResponseBody>
+        <MainRecipientParticipant>
+            <CustomerNumber>137</CustomerNumber>
+            <PartyName>Chubbs</PartyName>
+            <Organisation>
+                <ShortName>Chubbs</ShortName>
+                <Name>Chubbs</Name>
+                <ABN>ABN100</ABN>
+                <BankAccount>ANZ1459789</BankAccount>
+            </Organisation>
+            <Address>
+                <StreetAddress>1 Eagle Street</StreetAddress>
+                <Suburb>Brisbane City</Suburb>
+                <State>Queensland</State>
+                <PostCode>4000</PostCode>
+                <Country>Australia</Country>
+                <AsString>1 Eagle Street, Brisbane City, Queensland, Australia, 4000</AsString>
+            </Address>
+            <MobileNumber>074553470</MobileNumber>
+            <MobileNumberCountryCode>61</MobileNumberCountryCode>
+            <Email>alfredo_rivas@gbtpa.com.au</Email>
+        </MainRecipientParticipant>
+        <AttachmentSource>https://process.dms.view:123456@gen89-si-esb.gbau.ajgco.com:443/process/dms/document/view/</AttachmentSource>
+        <SignatureTemplateId>SIG_BLOCK_GEN</SignatureTemplateId>
+    </RequestDetails>
+    <Notification>
+        <CaseNumber>LU051058</CaseNumber>
+        <SummaryIncidentDescription>ersgters</SummaryIncidentDescription>
+        <DateCreated>2019-07-29T11:42:11.023+10:00</DateCreated>
+        <ReportedToNotifierDate>2019-07-03T00:00:00.000+10:00</ReportedToNotifierDate>
+        <ReportedToGBDate>2019-07-29T11:42:24.000+10:00</ReportedToGBDate>
+        <Participant>
+            <Role>Insured</Role>
+            <DateStarted>2019-07-29T00:00:00.000+10:00</DateStarted>
+            <Party>
+                <CustomerNumber>137</CustomerNumber>
+                <PartyName>Chubbs</PartyName>
+                <Organisation>
+                    <ShortName>Chubbs</ShortName>
+                    <Name>Chubbs</Name>
+                    <ABN>ABN100</ABN>
+                    <BankAccount>ANZ1459789</BankAccount>
+                </Organisation>
+                <Address>
+                    <StreetAddress>1 Eagle Street</StreetAddress>
+                    <Suburb>Brisbane City</Suburb>
+                    <State>Queensland</State>
+                    <PostCode>4000</PostCode>
+                    <Country>Australia</Country>
+                    <AsString>1 Eagle Street, Brisbane City, Queensland, Australia, 4000</AsString>
+                </Address>
+                <MobileNumber>074553470</MobileNumber>
+                <MobileNumberCountryCode>61</MobileNumberCountryCode>
+                <Email>alfredo_rivas@gbtpa.com.au</Email>
+            </Party>
+        </Participant>
+        <Participant>
+            <Role>Notifier</Role>
+            <DateStarted>2019-07-29T00:00:00.000+10:00</DateStarted>
+            <Party>
+                <CustomerNumber>137</CustomerNumber>
+                <PartyName>Chubbs</PartyName>
+                <Organisation>
+                    <ShortName>Chubbs</ShortName>
+                    <Name>Chubbs</Name>
+                    <ABN>ABN100</ABN>
+                    <BankAccount>ANZ1459789</BankAccount>
+                </Organisation>
+                <Address>
+                    <StreetAddress>1 Eagle Street</StreetAddress>
+                    <Suburb>Brisbane City</Suburb>
+                    <State>Queensland</State>
+                    <PostCode>4000</PostCode>
+                    <Country>Australia</Country>
+                    <AsString>1 Eagle Street, Brisbane City, Queensland, Australia, 4000</AsString>
+                </Address>
+                <MobileNumber>074553470</MobileNumber>
+                <MobileNumberCountryCode>61</MobileNumberCountryCode>
+                <Email>alfredo_rivas@gbtpa.com.au</Email>
+            </Party>
+        </Participant>
+        <Participant>
+            <Role>Insurer</Role>
+            <DateStarted>2019-07-29T00:00:00.000+10:00</DateStarted>
+            <Party>
+                <CustomerNumber>137</CustomerNumber>
+                <PartyName>Chubbs</PartyName>
+                <Organisation>
+                    <ShortName>Chubbs</ShortName>
+                    <Name>Chubbs</Name>
+                    <ABN>ABN100</ABN>
+                    <BankAccount>ANZ1459789</BankAccount>
+                </Organisation>
+                <Address>
+                    <StreetAddress>1 Eagle Street</StreetAddress>
+                    <Suburb>Brisbane City</Suburb>
+                    <State>Queensland</State>
+                    <PostCode>4000</PostCode>
+                    <Country>Australia</Country>
+                    <AsString>1 Eagle Street, Brisbane City, Queensland, Australia, 4000</AsString>
+                </Address>
+                <MobileNumber>074553470</MobileNumber>
+                <MobileNumberCountryCode>61</MobileNumberCountryCode>
+                <Email>alfredo_rivas@gbtpa.com.au</Email>
+            </Party>
+        </Participant>
+    </Notification>
+    <Case>
+        <CaseNumber>LU051058-07</CaseNumber>
+        <CaseType>Property Damage Claim</CaseType>
+        <Description>test</Description>
+        <DateCreated>2019-07-30T16:42:45.990+10:00</DateCreated>
+        <IncidentDate>2019-07-01T00:00:00.000+10:00</IncidentDate>
+        <CurrentUser>
+            <Name>Generic Claims Consultant</Name>
+            <ContactNumber>01155555555</ContactNumber>
+            <ContactEmail>gencm@gbtpa.com.au</ContactEmail>
+            <Role>Claims Consultant</Role>
+            <DefaultDepartment>State Department</DefaultDepartment>
+            <Department>Generic Product</Department>
+        </CurrentUser>
+        <ClaimHandler>
+            <Name>Generic Claims Consultant</Name>
+            <ContactNumber>01155555555</ContactNumber>
+            <ContactEmail>gencm@gbtpa.com.au</ContactEmail>
+            <Role>Claims Consultant</Role>
+            <DefaultDepartment>State Department</DefaultDepartment>
+            <Department>Generic Product</Department>
+        </ClaimHandler>
+        <Participant>
+            <Role>Insured</Role>
+            <DateStarted>2019-07-30T00:00:00.000+10:00</DateStarted>
+            <Party>
+                <CustomerNumber>137</CustomerNumber>
+                <PartyName>Chubbs</PartyName>
+                <Organisation>
+                    <ShortName>Chubbs</ShortName>
+                    <Name>Chubbs</Name>
+                    <ABN>ABN100</ABN>
+                    <BankAccount>ANZ1459789</BankAccount>
+                </Organisation>
+                <Address>
+                    <StreetAddress>1 Eagle Street</StreetAddress>
+                    <Suburb>Brisbane City</Suburb>
+                    <State>Queensland</State>
+                    <PostCode>4000</PostCode>
+                    <Country>Australia</Country>
+                    <AsString>1 Eagle Street, Brisbane City, Queensland, Australia, 4000</AsString>
+                </Address>
+                <MobileNumber>074553470</MobileNumber>
+                <MobileNumberCountryCode>61</MobileNumberCountryCode>
+                <Email>alfredo_rivas@gbtpa.com.au</Email>
+            </Party>
+        </Participant>
+        <Participant>
+            <Role>Claim Contact</Role>
+            <DateStarted>2019-07-30T00:00:00.000+10:00</DateStarted>
+            <Party>
+                <CustomerNumber>137</CustomerNumber>
+                <PartyName>Chubbs</PartyName>
+                <Organisation>
+                    <ShortName>Chubbs</ShortName>
+                    <Name>Chubbs</Name>
+                    <ABN>ABN100</ABN>
+                    <BankAccount>ANZ1459789</BankAccount>
+                </Organisation>
+                <Address>
+                    <StreetAddress>1 Eagle Street</StreetAddress>
+                    <Suburb>Brisbane City</Suburb>
+                    <State>Queensland</State>
+                    <PostCode>4000</PostCode>
+                    <Country>Australia</Country>
+                    <AsString>1 Eagle Street, Brisbane City, Queensland, Australia, 4000</AsString>
+                </Address>
+                <MobileNumber>074553470</MobileNumber>
+                <MobileNumberCountryCode>61</MobileNumberCountryCode>
+                <Email>alfredo_rivas@gbtpa.com.au</Email>
+            </Party>
+        </Participant>
+        <Participant>
+            <Role>Claimant</Role>
+            <DateStarted>2019-07-30T00:00:00.000+10:00</DateStarted>
+            <Party>
+                <CustomerNumber>137</CustomerNumber>
+                <PartyName>Chubbs</PartyName>
+                <Organisation>
+                    <ShortName>Chubbs</ShortName>
+                    <Name>Chubbs</Name>
+                    <ABN>ABN100</ABN>
+                    <BankAccount>ANZ1459789</BankAccount>
+                </Organisation>
+                <Address>
+                    <StreetAddress>1 Eagle Street</StreetAddress>
+                    <Suburb>Brisbane City</Suburb>
+                    <State>Queensland</State>
+                    <PostCode>4000</PostCode>
+                    <Country>Australia</Country>
+                    <AsString>1 Eagle Street, Brisbane City, Queensland, Australia, 4000</AsString>
+                </Address>
+                <MobileNumber>074553470</MobileNumber>
+                <MobileNumberCountryCode>61</MobileNumberCountryCode>
+                <Email>alfredo_rivas@gbtpa.com.au</Email>
+            </Party>
+        </Participant>
+        <Participant>
+            <Role>Insurer</Role>
+            <DateStarted>2019-07-30T00:00:00.000+10:00</DateStarted>
+            <Party>
+                <CustomerNumber>137</CustomerNumber>
+                <PartyName>Chubbs</PartyName>
+                <Organisation>
+                    <ShortName>Chubbs</ShortName>
+                    <Name>Chubbs</Name>
+                    <ABN>ABN100</ABN>
+                    <BankAccount>ANZ1459789</BankAccount>
+                </Organisation>
+                <Address>
+                    <StreetAddress>1 Eagle Street</StreetAddress>
+                    <Suburb>Brisbane City</Suburb>
+                    <State>Queensland</State>
+                    <PostCode>4000</PostCode>
+                    <Country>Australia</Country>
+                    <AsString>1 Eagle Street, Brisbane City, Queensland, Australia, 4000</AsString>
+                </Address>
+                <MobileNumber>074553470</MobileNumber>
+                <MobileNumberCountryCode>61</MobileNumberCountryCode>
+                <Email>alfredo_rivas@gbtpa.com.au</Email>
+            </Party>
+        </Participant>
+        <Policy>
+            <PolicyNumber>V4</PolicyNumber>
+            <PolicyReference>AU-Chubbs-Liability-2015-V4</PolicyReference>
+            <Status>Open</Status>
+            <PolicyStartDate>2015-01-18T15:00:00.000+10:00</PolicyStartDate>
+            <PolicyEndDate>2019-12-31T00:00:00.000+10:00</PolicyEndDate>
+            <Product>Liability</Product>
+            <SumInsuredAmount>0.000000</SumInsuredAmount>
+            <InsuredExcessAmount>0.000000</InsuredExcessAmount>
+            <ExcessMethod>Not Applicable</ExcessMethod>
+            <InsuredPolicyStartDate>2015-01-18T15:00:00.000+10:00</InsuredPolicyStartDate>
+            <InsuredPolicyEndDate>2019-12-31T00:00:00.000+10:00</InsuredPolicyEndDate>
+            <InsuredPolicyTimezone>GMT+10:00  Australia  Eastern Standard Time  AEST</InsuredPolicyTimezone>
+            <InsuredPolicyTimezoneEnum>512128003</InsuredPolicyTimezoneEnum>
+            <ClassOfBusiness>Professional Indemnity</ClassOfBusiness>
+        </Policy>
+        <Benefit>
+            <BenefitCaseNumber>LU051058-07-01</BenefitCaseNumber>
+            <Status>Open</Status>
+            <BenefitCaseType>Payment Benefit</BenefitCaseType>
+            <ProductType></ProductType>
+            <Description></Description>
+            <DateCreated>2019-07-30T16:43:37.687+10:00</DateCreated>
+            <FinancialDetails>
+                <Payments/>
+                <Reserves/>
+                <ReserveTotals>
+                    <RecoveredToDate>0</RecoveredToDate>
+                    <Reserve>0</Reserve>
+                    <PaidToDate>0</PaidToDate>
+                    <NetReserve>0</NetReserve>
+                    <ApprovedToDate>0</ApprovedToDate>
+                    <BalanceOutstanding>0</BalanceOutstanding>
+                    <ReserveCategory>
+                        <ReserveCategoryName>Expenses</ReserveCategoryName>
+                        <ReserveCategoryNameEnumId>72672002</ReserveCategoryNameEnumId>
+                        <TotalAmount>0</TotalAmount>
+                        <PaidToDate>0</PaidToDate>
+                        <BalanceOutstanding>0</BalanceOutstanding>
+                    </ReserveCategory>
+                    <ReserveCategory>
+                        <ReserveCategoryName>Settlement</ReserveCategoryName>
+                        <ReserveCategoryNameEnumId>72672001</ReserveCategoryNameEnumId>
+                        <TotalAmount>0</TotalAmount>
+                        <PaidToDate>0</PaidToDate>
+                        <BalanceOutstanding>0</BalanceOutstanding>
+                    </ReserveCategory>
+                </ReserveTotals>
+            </FinancialDetails>
+            <Participant>
+                <Role>Insured</Role>
+                <DateStarted>2019-07-30T00:00:00.000+10:00</DateStarted>
+                <Party>
+                    <CustomerNumber>137</CustomerNumber>
+                    <PartyName>Chubbs</PartyName>
+                    <Organisation>
+                        <ShortName>Chubbs</ShortName>
+                        <Name>Chubbs</Name>
+                        <ABN>ABN100</ABN>
+                        <BankAccount>ANZ1459789</BankAccount>
+                    </Organisation>
+                    <Address>
+                        <StreetAddress>1 Eagle Street</StreetAddress>
+                        <Suburb>Brisbane City</Suburb>
+                        <State>Queensland</State>
+                        <PostCode>4000</PostCode>
+                        <Country>Australia</Country>
+                        <AsString>1 Eagle Street, Brisbane City, Queensland, Australia, 4000</AsString>
+                    </Address>
+                    <MobileNumber>074553470</MobileNumber>
+                    <MobileNumberCountryCode>61</MobileNumberCountryCode>
+                    <Email>alfredo_rivas@gbtpa.com.au</Email>
+                </Party>
+            </Participant>
+            <Participant>
+                <Role>Insurer</Role>
+                <DateStarted>2019-07-30T00:00:00.000+10:00</DateStarted>
+                <Party>
+                    <CustomerNumber>137</CustomerNumber>
+                    <PartyName>Chubbs</PartyName>
+                    <Organisation>
+                        <ShortName>Chubbs</ShortName>
+                        <Name>Chubbs</Name>
+                        <ABN>ABN100</ABN>
+                        <BankAccount>ANZ1459789</BankAccount>
+                    </Organisation>
+                    <Address>
+                        <StreetAddress>1 Eagle Street</StreetAddress>
+                        <Suburb>Brisbane City</Suburb>
+                        <State>Queensland</State>
+                        <PostCode>4000</PostCode>
+                        <Country>Australia</Country>
+                        <AsString>1 Eagle Street, Brisbane City, Queensland, Australia, 4000</AsString>
+                    </Address>
+                    <MobileNumber>074553470</MobileNumber>
+                    <MobileNumberCountryCode>61</MobileNumberCountryCode>
+                    <Email>alfredo_rivas@gbtpa.com.au</Email>
+                </Party>
+            </Participant>
+        </Benefit>
+        <ClosureDate>2019-07-30T16:43:46.893+10:00</ClosureDate>
+        <ReopeningDate>2019-07-30T16:43:46.893+10:00</ReopeningDate>
+        <ReopeningReason></ReopeningReason>
+        <IncidentLocation>
+            <StreetAddress>Level 10, 179 Turbot Street</StreetAddress>
+            <Suburb>BRISBANE CITY</Suburb>
+            <State>Queensland</State>
+            <PostCode>4000</PostCode>
+            <Country>Australia</Country>
+            <AsString>Level 10, 179 Turbot Street, BRISBANE CITY, Queensland, Australia, 4000</AsString>
+        </IncidentLocation>
+        <JurisdictionLocation>Unknown</JurisdictionLocation>
+    </Case>
+</ns3:Correspondence>

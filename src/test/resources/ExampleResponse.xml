@@ -1,0 +1,1423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review-case createdate="13/Feb/2020 13:22:53" system="" batchid="0" transactionno="1" batchname="" version="6.0">
+    <transaction>
+        <objects>
+            <object class="Th_159026648_5_Correspondence" name="Correspondence">
+                <property name="RequestDetails">
+                    <object class="Th_159026648_5_RequestDetails" name="RequestDetails">
+                        <property name="RequestGenerationTime" value="2020-02-13T00:00:00.000+10:00"
+                                  display="2020-02-13"/>
+                        <property name="Region" value="au"/>
+                        <property name="Client" value="gi"/>
+                        <property name="Channel" value="Web"/>
+                        <property name="TemplateId" value="157909509"/>
+                        <property name="Recipients" value="srikanth_behra@gbtpa.com.au"/>
+                        <property name="EmailRecipients">
+                            <object class="Th_159026648_5_EmailRecipients" name="EmailRecipients">
+                                <property name="Recipient" index="0">
+                                    <object class="Th_159026648_5_PartyDetails" name="Recipient">
+                                        <property name="CustomerNumber" value="3"/>
+                                        <property name="PartyName" value="Mr Srikanth Behra"/>
+                                        <property name="Person">
+                                            <object class="Th_159026648_5_PersonDetails" name="Person">
+                                                <property name="Title" value="Mr"/>
+                                                <property name="FirstName" value="Srikanth"/>
+                                                <property name="LastName" value="Behra"/>
+                                                <property name="DateOfBirth" value="2020-01-01T00:00:00.000+10:00"
+                                                          display="2020-01-01"/>
+                                            </object>
+                                        </property>
+                                        <property name="Address">
+                                            <object class="Th_159026648_5_Address" name="Address">
+                                                <property name="StreetAddress"
+                                                          value="Royal &amp;amp; Ancient, Forgan House, The Links, ST. ANDREWS"/>
+                                                <property name="Suburb" value="FIFE"/>
+                                                <property name="PostCode" value="KY16 9JB"/>
+                                                <property name="Country" value="United Kingdom"/>
+                                                <property name="AsString"
+                                                          value="Royal &amp;amp; Ancient, Forgan House, The Links, ST. ANDREWS, FIFE, United Kingdom, KY16 9JB"/>
+                                            </object>
+                                        </property>
+                                        <property name="PhoneNumber" value="04645645676"/>
+                                        <property name="PhoneNumberCountryCode" value="44"/>
+                                        <property name="Email" value="srikanth_behra@gbtpa.com.au"/>
+                                    </object>
+                                </property>
+                            </object>
+                        </property>
+                        <property name="SenderAddress" value="email_test_gen89-si@gbtpa.com.au"/>
+                        <property name="Subject" value="Our ref: UK000171-01 Acknowledgement of your complaint"/>
+                        <property name="ResponseBody" value=""/>
+                        <property name="MainRecipientParticipant">
+                            <object class="Th_159026648_5_PartyDetails" name="MainRecipientParticipant"/>
+                        </property>
+                        <property name="AttachmentSource"
+                                  value="https://process.dms.view:123456@gen89-si-esb.gbau.ajgco.com:443/process/dms/document/view/"/>
+                        <property name="SignatureTemplateId" value="SIG_BLOCK_AUTO_GENERAL"/>
+                    </object>
+                </property>
+                <property name="Notification">
+                    <object class="Th_159026648_5_NotificationDetailsType" name="Notification">
+                        <property name="CaseNumber" value="UK000171"/>
+                        <property name="SummaryIncidentDescription" value="fsfdsfsd"/>
+                        <property name="DateCreated" value="2020-02-03T00:00:00.000+10:00" display="2020-02-03"/>
+                        <property name="ReportedToNotifierDate" value="2020-01-09T00:00:00.000+10:00"
+                                  display="2020-01-09"/>
+                        <property name="ReportedToGBDate" value="2020-02-02T00:00:00.000+10:00" display="2020-02-02"/>
+                        <property name="Participant" index="0">
+                            <object class="Th_159026648_5_Participant" name="Participant">
+                                <property name="Role" value="Insured"/>
+                                <property name="DateStarted" value="2020-02-03T00:00:00.000+10:00"
+                                          display="2020-02-03"/>
+                                <property name="Party">
+                                    <object class="Th_159026648_5_PartyDetails" name="Party">
+                                        <property name="CustomerNumber" value="3"/>
+                                        <property name="PartyName" value="Mr Srikanth Behra"/>
+                                        <property name="Person">
+                                            <object class="Th_159026648_5_PersonDetails" name="Person">
+                                                <property name="Title" value="Mr"/>
+                                                <property name="FirstName" value="Srikanth"/>
+                                                <property name="LastName" value="Behra"/>
+                                                <property name="DateOfBirth" value="2020-01-01T00:00:00.000+10:00"
+                                                          display="2020-01-01"/>
+                                            </object>
+                                        </property>
+                                        <property name="Address">
+                                            <object class="Th_159026648_5_Address" name="Address">
+                                                <property name="StreetAddress"
+                                                          value="Royal &amp;amp; Ancient, Forgan House, The Links, ST. ANDREWS"/>
+                                                <property name="Suburb" value="FIFE"/>
+                                                <property name="PostCode" value="KY16 9JB"/>
+                                                <property name="Country" value="United Kingdom"/>
+                                                <property name="AsString"
+                                                          value="Royal &amp;amp; Ancient, Forgan House, The Links, ST. ANDREWS, FIFE, United Kingdom, KY16 9JB"/>
+                                            </object>
+                                        </property>
+                                        <property name="PhoneNumber" value="04645645676"/>
+                                        <property name="PhoneNumberCountryCode" value="44"/>
+                                        <property name="Email" value="srikanth_behra@gbtpa.com.au"/>
+                                    </object>
+                                </property>
+                            </object>
+                        </property>
+                        <property name="Participant" index="1">
+                            <object class="Th_159026648_5_Participant" name="Participant">
+                                <property name="Role" value="Notifier"/>
+                                <property name="DateStarted" value="2020-02-03T00:00:00.000+10:00"
+                                          display="2020-02-03"/>
+                                <property name="Party">
+                                    <object class="Th_159026648_5_PartyDetails" name="Party">
+                                        <property name="CustomerNumber" value="3"/>
+                                        <property name="PartyName" value="Mr Srikanth Behra"/>
+                                        <property name="Person">
+                                            <object class="Th_159026648_5_PersonDetails" name="Person">
+                                                <property name="Title" value="Mr"/>
+                                                <property name="FirstName" value="Srikanth"/>
+                                                <property name="LastName" value="Behra"/>
+                                                <property name="DateOfBirth" value="2020-01-01T00:00:00.000+10:00"
+                                                          display="2020-01-01"/>
+                                            </object>
+                                        </property>
+                                        <property name="Address">
+                                            <object class="Th_159026648_5_Address" name="Address">
+                                                <property name="StreetAddress"
+                                                          value="Royal &amp;amp; Ancient, Forgan House, The Links, ST. ANDREWS"/>
+                                                <property name="Suburb" value="FIFE"/>
+                                                <property name="PostCode" value="KY16 9JB"/>
+                                                <property name="Country" value="United Kingdom"/>
+                                                <property name="AsString"
+                                                          value="Royal &amp;amp; Ancient, Forgan House, The Links, ST. ANDREWS, FIFE, United Kingdom, KY16 9JB"/>
+                                            </object>
+                                        </property>
+                                        <property name="PhoneNumber" value="04645645676"/>
+                                        <property name="PhoneNumberCountryCode" value="44"/>
+                                        <property name="Email" value="srikanth_behra@gbtpa.com.au"/>
+                                    </object>
+                                </property>
+                            </object>
+                        </property>
+                        <property name="Participant" index="2">
+                            <object class="Th_159026648_5_Participant" name="Participant">
+                                <property name="Role" value="Insurer"/>
+                                <property name="DateStarted" value="2020-02-03T00:00:00.000+10:00"
+                                          display="2020-02-03"/>
+                                <property name="Party">
+                                    <object class="Th_159026648_5_PartyDetails" name="Party">
+                                        <property name="CustomerNumber" value="252"/>
+                                        <property name="PartyName" value="Apollo Property Developers"/>
+                                        <property name="Organisation">
+                                            <object class="Th_159026648_5_OrganisationDetails" name="Organisation">
+                                                <property name="ShortName" value="APOLLO"/>
+                                                <property name="Name" value="Apollo Property Developers"/>
+                                                <property name="ABN" value="APOLLO9786"/>
+                                                <property name="BankAccount" value="NWBK15655648"/>
+                                            </object>
+                                        </property>
+                                        <property name="Address">
+                                            <object class="Th_159026648_5_Address" name="Address">
+                                                <property name="StreetAddress"
+                                                          value="1807 Azalea Place Road, , South Hall"/>
+                                                <property name="Suburb" value="London"/>
+                                                <property name="PostCode" value="UB1 1DQ"/>
+                                                <property name="Country" value="United Kingdom"/>
+                                                <property name="AsString"
+                                                          value="1807 Azalea Place Road, , South Hall, London, United Kingdom, UB1 1DQ"/>
+                                            </object>
+                                        </property>
+                                        <property name="PhoneNumber" value="207337700"/>
+                                        <property name="PhoneNumberCountryCode" value="44"/>
+                                        <property name="Email" value="websiteenquiries@sompocanopius.com"/>
+                                    </object>
+                                </property>
+                            </object>
+                        </property>
+                    </object>
+                </property>
+                <property name="Case">
+                    <object class="Th_159026648_5_CaseDetails" name="Case">
+                        <property name="CaseNumber" value="UK000171-01"/>
+                        <property name="CaseType" value="Property Claim"/>
+                        <property name="Description" value=""/>
+                        <property name="DateCreated" value="2020-02-03T00:00:00.000+10:00" display="2020-02-03"/>
+                        <property name="IncidentDate" value="2020-01-01T00:00:00.000+10:00" display="2020-01-01"/>
+                        <property name="CurrentUser">
+                            <object class="Th_159026648_5_ContactPerson" name="CurrentUser">
+                                <property name="Name" value="Generic Claims Consultant"/>
+                                <property name="ContactNumber" value="01155555555"/>
+                                <property name="ContactEmail" value="gencm@gbtpa.com.au"/>
+                                <property name="Role" value="Claims Consultant"/>
+                                <property name="DefaultDepartment" value="State Department"/>
+                                <property name="Department" value="Generic Product"/>
+                            </object>
+                        </property>
+                        <property name="ClaimHandler">
+                            <object class="Th_159026648_5_ContactPerson" name="ClaimHandler">
+                                <property name="Name" value="Generic Claims Consultant"/>
+                                <property name="ContactNumber" value="01155555555"/>
+                                <property name="ContactEmail" value="gencm@gbtpa.com.au"/>
+                                <property name="Role" value="Claims Consultant"/>
+                                <property name="DefaultDepartment" value="State Department"/>
+                                <property name="Department" value="Generic Product"/>
+                            </object>
+                        </property>
+                        <property name="Participant" index="0">
+                            <object class="Th_159026648_5_Participant" name="Participant">
+                                <property name="Role" value="Insured"/>
+                                <property name="DateStarted" value="2020-02-03T00:00:00.000+10:00"
+                                          display="2020-02-03"/>
+                                <property name="Party">
+                                    <object class="Th_159026648_5_PartyDetails" name="Party">
+                                        <property name="CustomerNumber" value="3"/>
+                                        <property name="PartyName" value="Mr Srikanth Behra"/>
+                                        <property name="Person">
+                                            <object class="Th_159026648_5_PersonDetails" name="Person">
+                                                <property name="Title" value="Mr"/>
+                                                <property name="FirstName" value="Srikanth"/>
+                                                <property name="LastName" value="Behra"/>
+                                                <property name="DateOfBirth" value="2020-01-01T00:00:00.000+10:00"
+                                                          display="2020-01-01"/>
+                                            </object>
+                                        </property>
+                                        <property name="Address">
+                                            <object class="Th_159026648_5_Address" name="Address">
+                                                <property name="StreetAddress"
+                                                          value="Royal &amp;amp; Ancient, Forgan House, The Links, ST. ANDREWS"/>
+                                                <property name="Suburb" value="FIFE"/>
+                                                <property name="PostCode" value="KY16 9JB"/>
+                                                <property name="Country" value="United Kingdom"/>
+                                                <property name="AsString"
+                                                          value="Royal &amp;amp; Ancient, Forgan House, The Links, ST. ANDREWS, FIFE, United Kingdom, KY16 9JB"/>
+                                            </object>
+                                        </property>
+                                        <property name="PhoneNumber" value="04645645676"/>
+                                        <property name="PhoneNumberCountryCode" value="44"/>
+                                        <property name="Email" value="srikanth_behra@gbtpa.com.au"/>
+                                    </object>
+                                </property>
+                            </object>
+                        </property>
+                        <property name="Participant" index="1">
+                            <object class="Th_159026648_5_Participant" name="Participant">
+                                <property name="Role" value="Claim Contact"/>
+                                <property name="DateStarted" value="2020-02-03T00:00:00.000+10:00"
+                                          display="2020-02-03"/>
+                                <property name="Party">
+                                    <object class="Th_159026648_5_PartyDetails" name="Party">
+                                        <property name="CustomerNumber" value="3"/>
+                                        <property name="PartyName" value="Mr Srikanth Behra"/>
+                                        <property name="Person">
+                                            <object class="Th_159026648_5_PersonDetails" name="Person">
+                                                <property name="Title" value="Mr"/>
+                                                <property name="FirstName" value="Srikanth"/>
+                                                <property name="LastName" value="Behra"/>
+                                                <property name="DateOfBirth" value="2020-01-01T00:00:00.000+10:00"
+                                                          display="2020-01-01"/>
+                                            </object>
+                                        </property>
+                                        <property name="Address">
+                                            <object class="Th_159026648_5_Address" name="Address">
+                                                <property name="StreetAddress"
+                                                          value="Royal &amp;amp; Ancient, Forgan House, The Links, ST. ANDREWS"/>
+                                                <property name="Suburb" value="FIFE"/>
+                                                <property name="PostCode" value="KY16 9JB"/>
+                                                <property name="Country" value="United Kingdom"/>
+                                                <property name="AsString"
+                                                          value="Royal &amp;amp; Ancient, Forgan House, The Links, ST. ANDREWS, FIFE, United Kingdom, KY16 9JB"/>
+                                            </object>
+                                        </property>
+                                        <property name="PhoneNumber" value="04645645676"/>
+                                        <property name="PhoneNumberCountryCode" value="44"/>
+                                        <property name="Email" value="srikanth_behra@gbtpa.com.au"/>
+                                    </object>
+                                </property>
+                            </object>
+                        </property>
+                        <property name="Participant" index="2">
+                            <object class="Th_159026648_5_Participant" name="Participant">
+                                <property name="Role" value="Insurer"/>
+                                <property name="DateStarted" value="2020-02-03T00:00:00.000+10:00"
+                                          display="2020-02-03"/>
+                                <property name="Party">
+                                    <object class="Th_159026648_5_PartyDetails" name="Party">
+                                        <property name="CustomerNumber" value="252"/>
+                                        <property name="PartyName" value="Apollo Property Developers"/>
+                                        <property name="Organisation">
+                                            <object class="Th_159026648_5_OrganisationDetails" name="Organisation">
+                                                <property name="ShortName" value="APOLLO"/>
+                                                <property name="Name" value="Apollo Property Developers"/>
+                                                <property name="ABN" value="APOLLO9786"/>
+                                                <property name="BankAccount" value="NWBK15655648"/>
+                                            </object>
+                                        </property>
+                                        <property name="Address">
+                                            <object class="Th_159026648_5_Address" name="Address">
+                                                <property name="StreetAddress"
+                                                          value="1807 Azalea Place Road, , South Hall"/>
+                                                <property name="Suburb" value="London"/>
+                                                <property name="PostCode" value="UB1 1DQ"/>
+                                                <property name="Country" value="United Kingdom"/>
+                                                <property name="AsString"
+                                                          value="1807 Azalea Place Road, , South Hall, London, United Kingdom, UB1 1DQ"/>
+                                            </object>
+                                        </property>
+                                        <property name="PhoneNumber" value="207337700"/>
+                                        <property name="PhoneNumberCountryCode" value="44"/>
+                                        <property name="Email" value="websiteenquiries@sompocanopius.com"/>
+                                    </object>
+                                </property>
+                            </object>
+                        </property>
+                        <property name="Participant" index="3">
+                            <object class="Th_159026648_5_Participant" name="Participant">
+                                <property name="Role" value="Notifier"/>
+                                <property name="DateStarted" value="2020-02-03T00:00:00.000+10:00"
+                                          display="2020-02-03"/>
+                                <property name="Party">
+                                    <object class="Th_159026648_5_PartyDetails" name="Party">
+                                        <property name="CustomerNumber" value="3"/>
+                                        <property name="PartyName" value="Mr Srikanth Behra"/>
+                                        <property name="Person">
+                                            <object class="Th_159026648_5_PersonDetails" name="Person">
+                                                <property name="Title" value="Mr"/>
+                                                <property name="FirstName" value="Srikanth"/>
+                                                <property name="LastName" value="Behra"/>
+                                                <property name="DateOfBirth" value="2020-01-01T00:00:00.000+10:00"
+                                                          display="2020-01-01"/>
+                                            </object>
+                                        </property>
+                                        <property name="Address">
+                                            <object class="Th_159026648_5_Address" name="Address">
+                                                <property name="StreetAddress"
+                                                          value="Royal &amp;amp; Ancient, Forgan House, The Links, ST. ANDREWS"/>
+                                                <property name="Suburb" value="FIFE"/>
+                                                <property name="PostCode" value="KY16 9JB"/>
+                                                <property name="Country" value="United Kingdom"/>
+                                                <property name="AsString"
+                                                          value="Royal &amp;amp; Ancient, Forgan House, The Links, ST. ANDREWS, FIFE, United Kingdom, KY16 9JB"/>
+                                            </object>
+                                        </property>
+                                        <property name="PhoneNumber" value="04645645676"/>
+                                        <property name="PhoneNumberCountryCode" value="44"/>
+                                        <property name="Email" value="srikanth_behra@gbtpa.com.au"/>
+                                    </object>
+                                </property>
+                            </object>
+                        </property>
+                        <property name="Participant" index="4">
+                            <object class="Th_159026648_5_Participant" name="Participant">
+                                <property name="Role" value="Claimant"/>
+                                <property name="DateStarted" value="2020-02-03T00:00:00.000+10:00"
+                                          display="2020-02-03"/>
+                                <property name="Party">
+                                    <object class="Th_159026648_5_PartyDetails" name="Party">
+                                        <property name="CustomerNumber" value="3"/>
+                                        <property name="PartyName" value="Mr Srikanth Behra"/>
+                                        <property name="Person">
+                                            <object class="Th_159026648_5_PersonDetails" name="Person">
+                                                <property name="Title" value="Mr"/>
+                                                <property name="FirstName" value="Srikanth"/>
+                                                <property name="LastName" value="Behra"/>
+                                                <property name="DateOfBirth" value="2020-01-01T00:00:00.000+10:00"
+                                                          display="2020-01-01"/>
+                                            </object>
+                                        </property>
+                                        <property name="Address">
+                                            <object class="Th_159026648_5_Address" name="Address">
+                                                <property name="StreetAddress"
+                                                          value="Royal &amp;amp; Ancient, Forgan House, The Links, ST. ANDREWS"/>
+                                                <property name="Suburb" value="FIFE"/>
+                                                <property name="PostCode" value="KY16 9JB"/>
+                                                <property name="Country" value="United Kingdom"/>
+                                                <property name="AsString"
+                                                          value="Royal &amp;amp; Ancient, Forgan House, The Links, ST. ANDREWS, FIFE, United Kingdom, KY16 9JB"/>
+                                            </object>
+                                        </property>
+                                        <property name="PhoneNumber" value="04645645676"/>
+                                        <property name="PhoneNumberCountryCode" value="44"/>
+                                        <property name="Email" value="srikanth_behra@gbtpa.com.au"/>
+                                    </object>
+                                </property>
+                            </object>
+                        </property>
+                        <property name="Policy" index="0">
+                            <object class="Th_159026648_5_PolicyDetails" name="Policy">
+                                <property name="PolicyNumber" value="1234"/>
+                                <property name="PolicyReference" value="UK-APOLLO-PROPERTY-2016-COMMERCIAL PROPERTY"/>
+                                <property name="Status" value="Open"/>
+                                <property name="PolicyStartDate" value="2016-01-26T00:00:00.000+10:00"
+                                          display="2016-01-26"/>
+                                <property name="PolicyEndDate" value="2022-12-31T00:00:00.000+10:00"
+                                          display="2022-12-31"/>
+                                <property name="Product" value="Property"/>
+                                <property name="SumInsuredAmount" value="0.0"/>
+                                <property name="InsuredExcessAmount" value="0.0"/>
+                                <property name="ExcessMethod" value="Deduction"/>
+                                <property name="InsuredPolicyStartDate" value="2020-01-01T00:00:00.000+10:00"
+                                          display="2020-01-01"/>
+                                <property name="InsuredPolicyEndDate" value="2020-12-31T00:00:00.000+10:00"
+                                          display="2020-12-31"/>
+                                <property name="InsuredPolicyTimezone"
+                                          value="GMT+00:00  United Kingdom  Greenwich Mean Time  GMT"/>
+                                <property name="InsuredPolicyTimezoneEnum" value="512128006"/>
+                                <property name="ClassOfBusiness" value="Professional Indemnity"/>
+                                <property name="ManagedBy" value="Adjusting Associates"/>
+                            </object>
+                        </property>
+                        <property name="Benefit" index="0">
+                            <object class="Th_159026648_5_Benefit" name="Benefit">
+                                <property name="BenefitCaseNumber" value="UK000171-01-01"/>
+                                <property name="Status" value="Open"/>
+                                <property name="BenefitCaseType" value="Property Benefit"/>
+                                <property name="ProductType" value=""/>
+                                <property name="Description" value=""/>
+                                <property name="DateCreated" value="2020-02-03T00:00:00.000+10:00"
+                                          display="2020-02-03"/>
+                                <property name="FinancialDetails">
+                                    <object class="Th_159026648_5_FinancialDetailsType" name="FinancialDetails">
+                                        <property name="Payments">
+                                            <object class="Th_159026648_5_Payments" name="Payments">
+                                                <property name="Payment" index="0">
+                                                    <object class="Th_159026648_5_PaymentType" name="Payment">
+                                                        <property name="Payee" value="Mr Srikanth Behra"/>
+                                                        <property name="PayeeReference" value="test"/>
+                                                        <property name="PaymentMethod" value="EFT"/>
+                                                        <property name="PaymentApprovedDate"
+                                                                  value="2020-02-03T00:00:00.000+10:00"
+                                                                  display="2020-02-03"/>
+                                                        <property name="PaymentCreatedDate"
+                                                                  value="2020-02-03T00:00:00.000+10:00"
+                                                                  display="2020-02-03"/>
+                                                        <property name="isPaymentApproved" value="Yes"/>
+                                                        <property name="PaymentDescriptor"
+                                                                  value="Expenses - Cash Amount"/>
+                                                        <property name="PaymentDescriptorEnumId" value="71070002"/>
+                                                        <property name="PaymentTypeEnumId" value="71008001"/>
+                                                        <property name="PaymentType" value="Adhoc"/>
+                                                        <property name="PaymentStatus" value="Active"/>
+                                                        <property name="PaymentStatusEnumId" value="64256005"/>
+                                                        <property name="PEStatus" value="PendingActive"/>
+                                                        <property name="isStatisticalPayment" value="No"/>
+                                                        <property name="Amount" value="2000.0"/>
+                                                        <property name="AdjustedAmount" value="2000.0"/>
+                                                        <property name="GSTRate" value="20.0"/>
+                                                        <property name="PayeesITCPercent" value="30.0"/>
+                                                        <property name="PaymentAddress"
+                                                                  value="Royal &amp;amp; Ancient&#10;                            Forgan House, The Links&#10;                            ST. ANDREWS&#10;                            FIFE&#10;                            KY16 9JB"/>
+                                                        <property name="EFTPaymentDetails">
+                                                            <object class="Th_159026648_5_EFTPaymentType"
+                                                                    name="EFTPaymentDetails">
+                                                                <property name="InstitutionName"
+                                                                          value="NATIONAL WESTMINSTER BANK PLC"/>
+                                                                <property name="BankBranchName"
+                                                                          value="CARDIFF, QUEEN STREET (A)"/>
+                                                                <property name="BankCode" value="NWBK"/>
+                                                                <property name="AccountName" value="Mr Srikanth Behra"/>
+                                                                <property name="BankAccount" value="23989613"/>
+                                                                <property name="BankSortCode" value="01-01-55"/>
+                                                                <property name="AccountType" value="Domestic Account"/>
+                                                            </object>
+                                                        </property>
+                                                    </object>
+                                                </property>
+                                                <property name="Payment" index="1">
+                                                    <object class="Th_159026648_5_PaymentType" name="Payment">
+                                                        <property name="Payee" value="Mr Srikanth Behra"/>
+                                                        <property name="PayeeReference" value="test2"/>
+                                                        <property name="PaymentMethod" value="EFT"/>
+                                                        <property name="PaymentApprovedDate"
+                                                                  value="2020-02-02T00:00:00.000+10:00"
+                                                                  display="2020-02-02"/>
+                                                        <property name="PaymentCreatedDate"
+                                                                  value="2020-02-03T00:00:00.000+10:00"
+                                                                  display="2020-02-03"/>
+                                                        <property name="isPaymentApproved" value="Yes"/>
+                                                        <property name="PaymentDescriptor"
+                                                                  value="Expenses - Cash Amount"/>
+                                                        <property name="PaymentDescriptorEnumId" value="71070002"/>
+                                                        <property name="PaymentTypeEnumId" value="71008001"/>
+                                                        <property name="PaymentType" value="Adhoc"/>
+                                                        <property name="PaymentStatus" value="Active"/>
+                                                        <property name="PaymentStatusEnumId" value="64256005"/>
+                                                        <property name="PEStatus" value="PendingActive"/>
+                                                        <property name="isStatisticalPayment" value="No"/>
+                                                        <property name="Amount" value="3000.0"/>
+                                                        <property name="AdjustedAmount" value="3000.0"/>
+                                                        <property name="GSTRate" value="20.0"/>
+                                                        <property name="PayeesITCPercent" value="30.0"/>
+                                                        <property name="PaymentAddress"
+                                                                  value="Royal &amp;amp; Ancient&#10;                            Forgan House, The Links&#10;                            ST. ANDREWS&#10;                            FIFE&#10;                            KY16 9JB"/>
+                                                        <property name="EFTPaymentDetails">
+                                                            <object class="Th_159026648_5_EFTPaymentType"
+                                                                    name="EFTPaymentDetails">
+                                                                <property name="InstitutionName"
+                                                                          value="NATIONAL WESTMINSTER BANK PLC"/>
+                                                                <property name="BankBranchName"
+                                                                          value="CARDIFF, QUEEN STREET (A)"/>
+                                                                <property name="BankCode" value="NWBK"/>
+                                                                <property name="AccountName" value="Mr Srikanth Behra"/>
+                                                                <property name="BankAccount" value="23989613"/>
+                                                                <property name="BankSortCode" value="01-01-55"/>
+                                                                <property name="AccountType" value="Domestic Account"/>
+                                                            </object>
+                                                        </property>
+                                                    </object>
+                                                </property>
+                                                <property name="Payment" index="2">
+                                                    <object class="Th_159026648_5_PaymentType" name="Payment">
+                                                        <property name="Payee" value="Mr Srikanth Behra"/>
+                                                        <property name="PayeeReference" value="test3"/>
+                                                        <property name="PaymentMethod" value="EFT"/>
+                                                        <property name="PaymentApprovedDate"
+                                                                  value="2020-02-02T00:00:00.000+10:00"
+                                                                  display="2020-02-02"/>
+                                                        <property name="PaymentCreatedDate"
+                                                                  value="2020-02-03T00:00:00.000+10:00"
+                                                                  display="2020-02-03"/>
+                                                        <property name="isPaymentApproved" value="Yes"/>
+                                                        <property name="PaymentDescriptor"
+                                                                  value="Expenses - Cash Amount"/>
+                                                        <property name="PaymentDescriptorEnumId" value="71070002"/>
+                                                        <property name="PaymentTypeEnumId" value="71008001"/>
+                                                        <property name="PaymentType" value="Adhoc"/>
+                                                        <property name="PaymentStatus" value="Active"/>
+                                                        <property name="PaymentStatusEnumId" value="64256005"/>
+                                                        <property name="PEStatus" value="PendingActive"/>
+                                                        <property name="isStatisticalPayment" value="No"/>
+                                                        <property name="Amount" value="4000.0"/>
+                                                        <property name="AdjustedAmount" value="4000.0"/>
+                                                        <property name="GSTRate" value="20.0"/>
+                                                        <property name="PayeesITCPercent" value="30.0"/>
+                                                        <property name="PaymentAddress"
+                                                                  value="Royal &amp;amp; Ancient&#10;                            Forgan House, The Links&#10;                            ST. ANDREWS&#10;                            FIFE&#10;                            KY16 9JB"/>
+                                                        <property name="EFTPaymentDetails">
+                                                            <object class="Th_159026648_5_EFTPaymentType"
+                                                                    name="EFTPaymentDetails">
+                                                                <property name="InstitutionName"
+                                                                          value="NATIONAL WESTMINSTER BANK PLC"/>
+                                                                <property name="BankBranchName"
+                                                                          value="CARDIFF, QUEEN STREET (A)"/>
+                                                                <property name="BankCode" value="NWBK"/>
+                                                                <property name="AccountName" value="Mr Srikanth Behra"/>
+                                                                <property name="BankAccount" value="23989613"/>
+                                                                <property name="BankSortCode" value="01-01-55"/>
+                                                                <property name="AccountType" value="Domestic Account"/>
+                                                            </object>
+                                                        </property>
+                                                    </object>
+                                                </property>
+                                            </object>
+                                        </property>
+                                        <property name="Reserves">
+                                            <object class="Th_159026648_5_Reserves" name="Reserves">
+                                                <property name="Reserve" index="0">
+                                                    <object class="Th_159026648_5_ReserveType" name="Reserve">
+                                                        <property name="ReserveTypeName" value="Legal Costs Coverage"/>
+                                                        <property name="ReserveTypeEnumId" value="72608140"/>
+                                                        <property name="Reserve" value="1000.0"/>
+                                                        <property name="PaidToDate" value="0.0"/>
+                                                        <property name="BalanceOutstanding" value="1000.0"/>
+                                                    </object>
+                                                </property>
+                                                <property name="Reserve" index="1">
+                                                    <object class="Th_159026648_5_ReserveType" name="Reserve">
+                                                        <property name="ReserveTypeName" value="Legal Costs Defence"/>
+                                                        <property name="ReserveTypeEnumId" value="72608145"/>
+                                                        <property name="Reserve" value="9000.0"/>
+                                                        <property name="PaidToDate" value="9000.0"/>
+                                                        <property name="BalanceOutstanding" value="0.0"/>
+                                                    </object>
+                                                </property>
+                                            </object>
+                                        </property>
+                                        <property name="ReserveTotals">
+                                            <object class="Th_159026648_5_ReserveTotals" name="ReserveTotals">
+                                                <property name="RecoveredToDate" value="0.0"/>
+                                                <property name="Reserve" value="10000.0"/>
+                                                <property name="PaidToDate" value="9000.0"/>
+                                                <property name="NetReserve" value="1000.0"/>
+                                                <property name="ApprovedToDate" value="0.0"/>
+                                                <property name="BalanceOutstanding" value="1000.0"/>
+                                                <property name="ReserveCategory" index="0">
+                                                    <object class="Th_159026648_5_ReserveCategoryType"
+                                                            name="ReserveCategory">
+                                                        <property name="ReserveCategoryName" value="Property Expenses"/>
+                                                        <property name="ReserveCategoryNameEnumId" value="72702005"/>
+                                                        <property name="TotalAmount" value="10000.0"/>
+                                                        <property name="ApprovedToDate" value="10000.0"/>
+                                                        <property name="PaidToDate" value="9000.0"/>
+                                                        <property name="BalanceOutstanding" value="1000.0"/>
+                                                    </object>
+                                                </property>
+                                                <property name="ReserveCategory" index="1">
+                                                    <object class="Th_159026648_5_ReserveCategoryType"
+                                                            name="ReserveCategory">
+                                                        <property name="ReserveCategoryName"
+                                                                  value="Property Settlement"/>
+                                                        <property name="ReserveCategoryNameEnumId" value="72702006"/>
+                                                        <property name="TotalAmount" value="0.0"/>
+                                                        <property name="ApprovedToDate" value="0.0"/>
+                                                        <property name="PaidToDate" value="0.0"/>
+                                                        <property name="BalanceOutstanding" value="0.0"/>
+                                                    </object>
+                                                </property>
+                                            </object>
+                                        </property>
+                                    </object>
+                                </property>
+                                <property name="Participant" index="0">
+                                    <object class="Th_159026648_5_Participant" name="Participant">
+                                        <property name="Role" value="Insured"/>
+                                        <property name="DateStarted" value="2020-02-03T00:00:00.000+10:00"
+                                                  display="2020-02-03"/>
+                                        <property name="Party">
+                                            <object class="Th_159026648_5_PartyDetails" name="Party">
+                                                <property name="CustomerNumber" value="3"/>
+                                                <property name="PartyName" value="Mr Srikanth Behra"/>
+                                                <property name="Person">
+                                                    <object class="Th_159026648_5_PersonDetails" name="Person">
+                                                        <property name="Title" value="Mr"/>
+                                                        <property name="FirstName" value="Srikanth"/>
+                                                        <property name="LastName" value="Behra"/>
+                                                        <property name="DateOfBirth"
+                                                                  value="2020-01-01T00:00:00.000+10:00"
+                                                                  display="2020-01-01"/>
+                                                    </object>
+                                                </property>
+                                                <property name="Address">
+                                                    <object class="Th_159026648_5_Address" name="Address">
+                                                        <property name="StreetAddress"
+                                                                  value="Royal &amp;amp; Ancient, Forgan House, The Links, ST. ANDREWS"/>
+                                                        <property name="Suburb" value="FIFE"/>
+                                                        <property name="PostCode" value="KY16 9JB"/>
+                                                        <property name="Country" value="United Kingdom"/>
+                                                        <property name="AsString"
+                                                                  value="Royal &amp;amp; Ancient, Forgan House, The Links, ST. ANDREWS, FIFE, United Kingdom, KY16 9JB"/>
+                                                    </object>
+                                                </property>
+                                                <property name="PhoneNumber" value="04645645676"/>
+                                                <property name="PhoneNumberCountryCode" value="44"/>
+                                                <property name="Email" value="srikanth_behra@gbtpa.com.au"/>
+                                            </object>
+                                        </property>
+                                    </object>
+                                </property>
+                                <property name="Participant" index="1">
+                                    <object class="Th_159026648_5_Participant" name="Participant">
+                                        <property name="Role" value="Insurer"/>
+                                        <property name="DateStarted" value="2020-02-03T00:00:00.000+10:00"
+                                                  display="2020-02-03"/>
+                                        <property name="Party">
+                                            <object class="Th_159026648_5_PartyDetails" name="Party">
+                                                <property name="CustomerNumber" value="252"/>
+                                                <property name="PartyName" value="Apollo Property Developers"/>
+                                                <property name="Organisation">
+                                                    <object class="Th_159026648_5_OrganisationDetails"
+                                                            name="Organisation">
+                                                        <property name="ShortName" value="APOLLO"/>
+                                                        <property name="Name" value="Apollo Property Developers"/>
+                                                        <property name="ABN" value="APOLLO9786"/>
+                                                        <property name="BankAccount" value="NWBK15655648"/>
+                                                    </object>
+                                                </property>
+                                                <property name="Address">
+                                                    <object class="Th_159026648_5_Address" name="Address">
+                                                        <property name="StreetAddress"
+                                                                  value="1807 Azalea Place Road, , South Hall"/>
+                                                        <property name="Suburb" value="London"/>
+                                                        <property name="PostCode" value="UB1 1DQ"/>
+                                                        <property name="Country" value="United Kingdom"/>
+                                                        <property name="AsString"
+                                                                  value="1807 Azalea Place Road, , South Hall, London, United Kingdom, UB1 1DQ"/>
+                                                    </object>
+                                                </property>
+                                                <property name="PhoneNumber" value="207337700"/>
+                                                <property name="PhoneNumberCountryCode" value="44"/>
+                                                <property name="Email" value="websiteenquiries@sompocanopius.com"/>
+                                            </object>
+                                        </property>
+                                    </object>
+                                </property>
+                                <property name="Participant" index="2">
+                                    <object class="Th_159026648_5_Participant" name="Participant">
+                                        <property name="Role" value="Payee"/>
+                                        <property name="DateStarted" value="2020-02-03T00:00:00.000+10:00"
+                                                  display="2020-02-03"/>
+                                        <property name="Party">
+                                            <object class="Th_159026648_5_PartyDetails" name="Party">
+                                                <property name="CustomerNumber" value="3"/>
+                                                <property name="PartyName" value="Mr Srikanth Behra"/>
+                                                <property name="Person">
+                                                    <object class="Th_159026648_5_PersonDetails" name="Person">
+                                                        <property name="Title" value="Mr"/>
+                                                        <property name="FirstName" value="Srikanth"/>
+                                                        <property name="LastName" value="Behra"/>
+                                                        <property name="DateOfBirth"
+                                                                  value="2020-01-01T00:00:00.000+10:00"
+                                                                  display="2020-01-01"/>
+                                                    </object>
+                                                </property>
+                                                <property name="Address">
+                                                    <object class="Th_159026648_5_Address" name="Address">
+                                                        <property name="StreetAddress"
+                                                                  value="Royal &amp;amp; Ancient, Forgan House, The Links, ST. ANDREWS"/>
+                                                        <property name="Suburb" value="FIFE"/>
+                                                        <property name="PostCode" value="KY16 9JB"/>
+                                                        <property name="Country" value="United Kingdom"/>
+                                                        <property name="AsString"
+                                                                  value="Royal &amp;amp; Ancient, Forgan House, The Links, ST. ANDREWS, FIFE, United Kingdom, KY16 9JB"/>
+                                                    </object>
+                                                </property>
+                                                <property name="PhoneNumber" value="04645645676"/>
+                                                <property name="PhoneNumberCountryCode" value="44"/>
+                                                <property name="Email" value="srikanth_behra@gbtpa.com.au"/>
+                                            </object>
+                                        </property>
+                                    </object>
+                                </property>
+                            </object>
+                        </property>
+                        <property name="ClosureDate" value="2020-02-13T00:00:00.000+10:00" display="2020-02-13"/>
+                        <property name="ReopeningDate" value="2020-02-13T00:00:00.000+10:00" display="2020-02-13"/>
+                        <property name="ReopeningReason" value=""/>
+                        <property name="IncidentLocation">
+                            <object class="Th_159026648_5_Address" name="IncidentLocation">
+                                <property name="StreetAddress" value="10 Downing Street, South Normanton, ALFRETON"/>
+                                <property name="Suburb" value="DERBYSHIRE"/>
+                                <property name="PostCode" value="DE55 2HE"/>
+                                <property name="Country" value="United Kingdom"/>
+                                <property name="AsString"
+                                          value="10 Downing Street, South Normanton, ALFRETON, DERBYSHIRE, United Kingdom, DE55 2HE"/>
+                            </object>
+                        </property>
+                        <property name="JurisdictionLocation" value="Unknown"/>
+                        <property name="TotalSettlementPaidToDate" value="0.0"/>
+                        <property name="TotalExpensesPaidToDate" value="0.0"/>
+                        <property name="TotalSettlementOutstandingReserve" value="0.0"/>
+                        <property name="TotalExpensesOutstandingReserve" value="0.0"/>
+                        <property name="TotalOutstandingReserve" value="1000.0"/>
+                        <property name="TotalActualRecoveredAmount" value="0.0"/>
+                        <property name="TotalIncurred" value="10000.0"/>
+                        <property name="TotalLegalCostsPaidToDate" value="9000.0"/>
+                    </object>
+                </property>
+                <property name="ActiveBenefit">
+                    <object class="Th_159026648_5_Benefit" name="ActiveBenefit">
+                        <property name="BenefitCaseNumber" value="UK000171-01-01"/>
+                        <property name="Status" value="Open"/>
+                        <property name="BenefitCaseType" value="Property Benefit"/>
+                        <property name="ProductType" value=""/>
+                        <property name="Description" value=""/>
+                        <property name="DateCreated" value="2020-02-03T00:00:00.000+10:00" display="2020-02-03"/>
+                        <property name="FinancialDetails">
+                            <object class="Th_159026648_5_FinancialDetailsType" name="FinancialDetails">
+                                <property name="Payments">
+                                    <object class="Th_159026648_5_Payments" name="Payments">
+                                        <property name="Payment" index="0">
+                                            <object class="Th_159026648_5_PaymentType" name="Payment">
+                                                <property name="Payee" value="Mr Srikanth Behra"/>
+                                                <property name="PayeeReference" value="test"/>
+                                                <property name="PaymentMethod" value="EFT"/>
+                                                <property name="PaymentApprovedDate"
+                                                          value="2020-02-03T00:00:00.000+10:00" display="2020-02-03"/>
+                                                <property name="PaymentCreatedDate"
+                                                          value="2020-02-03T00:00:00.000+10:00" display="2020-02-03"/>
+                                                <property name="isPaymentApproved" value="Yes"/>
+                                                <property name="PaymentDescriptor" value="Expenses - Cash Amount"/>
+                                                <property name="PaymentDescriptorEnumId" value="71070002"/>
+                                                <property name="PaymentTypeEnumId" value="71008001"/>
+                                                <property name="PaymentType" value="Adhoc"/>
+                                                <property name="PaymentStatus" value="Active"/>
+                                                <property name="PaymentStatusEnumId" value="64256005"/>
+                                                <property name="PEStatus" value="PendingActive"/>
+                                                <property name="isStatisticalPayment" value="No"/>
+                                                <property name="Amount" value="2000.0"/>
+                                                <property name="AdjustedAmount" value="2000.0"/>
+                                                <property name="GSTRate" value="20.0"/>
+                                                <property name="PayeesITCPercent" value="30.0"/>
+                                                <property name="PaymentAddress"
+                                                          value="Royal &amp;amp; Ancient&#10;                            Forgan House, The Links&#10;                            ST. ANDREWS&#10;                            FIFE&#10;                            KY16 9JB"/>
+                                                <property name="EFTPaymentDetails">
+                                                    <object class="Th_159026648_5_EFTPaymentType"
+                                                            name="EFTPaymentDetails">
+                                                        <property name="InstitutionName"
+                                                                  value="NATIONAL WESTMINSTER BANK PLC"/>
+                                                        <property name="BankBranchName"
+                                                                  value="CARDIFF, QUEEN STREET (A)"/>
+                                                        <property name="BankCode" value="NWBK"/>
+                                                        <property name="AccountName" value="Mr Srikanth Behra"/>
+                                                        <property name="BankAccount" value="23989613"/>
+                                                        <property name="BankSortCode" value="01-01-55"/>
+                                                        <property name="AccountType" value="Domestic Account"/>
+                                                    </object>
+                                                </property>
+                                            </object>
+                                        </property>
+                                        <property name="Payment" index="1">
+                                            <object class="Th_159026648_5_PaymentType" name="Payment">
+                                                <property name="Payee" value="Mr Srikanth Behra"/>
+                                                <property name="PayeeReference" value="test2"/>
+                                                <property name="PaymentMethod" value="EFT"/>
+                                                <property name="PaymentApprovedDate"
+                                                          value="2020-02-02T00:00:00.000+10:00" display="2020-02-02"/>
+                                                <property name="PaymentCreatedDate"
+                                                          value="2020-02-03T00:00:00.000+10:00" display="2020-02-03"/>
+                                                <property name="isPaymentApproved" value="Yes"/>
+                                                <property name="PaymentDescriptor" value="Expenses - Cash Amount"/>
+                                                <property name="PaymentDescriptorEnumId" value="71070002"/>
+                                                <property name="PaymentTypeEnumId" value="71008001"/>
+                                                <property name="PaymentType" value="Adhoc"/>
+                                                <property name="PaymentStatus" value="Active"/>
+                                                <property name="PaymentStatusEnumId" value="64256005"/>
+                                                <property name="PEStatus" value="PendingActive"/>
+                                                <property name="isStatisticalPayment" value="No"/>
+                                                <property name="Amount" value="3000.0"/>
+                                                <property name="AdjustedAmount" value="3000.0"/>
+                                                <property name="GSTRate" value="20.0"/>
+                                                <property name="PayeesITCPercent" value="30.0"/>
+                                                <property name="PaymentAddress"
+                                                          value="Royal &amp;amp; Ancient&#10;                            Forgan House, The Links&#10;                            ST. ANDREWS&#10;                            FIFE&#10;                            KY16 9JB"/>
+                                                <property name="EFTPaymentDetails">
+                                                    <object class="Th_159026648_5_EFTPaymentType"
+                                                            name="EFTPaymentDetails">
+                                                        <property name="InstitutionName"
+                                                                  value="NATIONAL WESTMINSTER BANK PLC"/>
+                                                        <property name="BankBranchName"
+                                                                  value="CARDIFF, QUEEN STREET (A)"/>
+                                                        <property name="BankCode" value="NWBK"/>
+                                                        <property name="AccountName" value="Mr Srikanth Behra"/>
+                                                        <property name="BankAccount" value="23989613"/>
+                                                        <property name="BankSortCode" value="01-01-55"/>
+                                                        <property name="AccountType" value="Domestic Account"/>
+                                                    </object>
+                                                </property>
+                                            </object>
+                                        </property>
+                                        <property name="Payment" index="2">
+                                            <object class="Th_159026648_5_PaymentType" name="Payment">
+                                                <property name="Payee" value="Mr Srikanth Behra"/>
+                                                <property name="PayeeReference" value="test3"/>
+                                                <property name="PaymentMethod" value="EFT"/>
+                                                <property name="PaymentApprovedDate"
+                                                          value="2020-02-02T00:00:00.000+10:00" display="2020-02-02"/>
+                                                <property name="PaymentCreatedDate"
+                                                          value="2020-02-03T00:00:00.000+10:00" display="2020-02-03"/>
+                                                <property name="isPaymentApproved" value="Yes"/>
+                                                <property name="PaymentDescriptor" value="Expenses - Cash Amount"/>
+                                                <property name="PaymentDescriptorEnumId" value="71070002"/>
+                                                <property name="PaymentTypeEnumId" value="71008001"/>
+                                                <property name="PaymentType" value="Adhoc"/>
+                                                <property name="PaymentStatus" value="Active"/>
+                                                <property name="PaymentStatusEnumId" value="64256005"/>
+                                                <property name="PEStatus" value="PendingActive"/>
+                                                <property name="isStatisticalPayment" value="No"/>
+                                                <property name="Amount" value="4000.0"/>
+                                                <property name="AdjustedAmount" value="4000.0"/>
+                                                <property name="GSTRate" value="20.0"/>
+                                                <property name="PayeesITCPercent" value="30.0"/>
+                                                <property name="PaymentAddress"
+                                                          value="Royal &amp;amp; Ancient&#10;                            Forgan House, The Links&#10;                            ST. ANDREWS&#10;                            FIFE&#10;                            KY16 9JB"/>
+                                                <property name="EFTPaymentDetails">
+                                                    <object class="Th_159026648_5_EFTPaymentType"
+                                                            name="EFTPaymentDetails">
+                                                        <property name="InstitutionName"
+                                                                  value="NATIONAL WESTMINSTER BANK PLC"/>
+                                                        <property name="BankBranchName"
+                                                                  value="CARDIFF, QUEEN STREET (A)"/>
+                                                        <property name="BankCode" value="NWBK"/>
+                                                        <property name="AccountName" value="Mr Srikanth Behra"/>
+                                                        <property name="BankAccount" value="23989613"/>
+                                                        <property name="BankSortCode" value="01-01-55"/>
+                                                        <property name="AccountType" value="Domestic Account"/>
+                                                    </object>
+                                                </property>
+                                            </object>
+                                        </property>
+                                    </object>
+                                </property>
+                                <property name="Reserves">
+                                    <object class="Th_159026648_5_Reserves" name="Reserves">
+                                        <property name="Reserve" index="0">
+                                            <object class="Th_159026648_5_ReserveType" name="Reserve">
+                                                <property name="ReserveTypeName" value="Legal Costs Coverage"/>
+                                                <property name="ReserveTypeEnumId" value="72608140"/>
+                                                <property name="Reserve" value="1000.0"/>
+                                                <property name="PaidToDate" value="0.0"/>
+                                                <property name="BalanceOutstanding" value="1000.0"/>
+                                            </object>
+                                        </property>
+                                        <property name="Reserve" index="1">
+                                            <object class="Th_159026648_5_ReserveType" name="Reserve">
+                                                <property name="ReserveTypeName" value="Legal Costs Defence"/>
+                                                <property name="ReserveTypeEnumId" value="72608145"/>
+                                                <property name="Reserve" value="9000.0"/>
+                                                <property name="PaidToDate" value="9000.0"/>
+                                                <property name="BalanceOutstanding" value="0.0"/>
+                                            </object>
+                                        </property>
+                                    </object>
+                                </property>
+                                <property name="ReserveTotals">
+                                    <object class="Th_159026648_5_ReserveTotals" name="ReserveTotals">
+                                        <property name="RecoveredToDate" value="0.0"/>
+                                        <property name="Reserve" value="10000.0"/>
+                                        <property name="PaidToDate" value="9000.0"/>
+                                        <property name="NetReserve" value="1000.0"/>
+                                        <property name="ApprovedToDate" value="0.0"/>
+                                        <property name="BalanceOutstanding" value="1000.0"/>
+                                        <property name="ReserveCategory" index="0">
+                                            <object class="Th_159026648_5_ReserveCategoryType" name="ReserveCategory">
+                                                <property name="ReserveCategoryName" value="Property Expenses"/>
+                                                <property name="ReserveCategoryNameEnumId" value="72702005"/>
+                                                <property name="TotalAmount" value="10000.0"/>
+                                                <property name="ApprovedToDate" value="10000.0"/>
+                                                <property name="PaidToDate" value="9000.0"/>
+                                                <property name="BalanceOutstanding" value="1000.0"/>
+                                            </object>
+                                        </property>
+                                        <property name="ReserveCategory" index="1">
+                                            <object class="Th_159026648_5_ReserveCategoryType" name="ReserveCategory">
+                                                <property name="ReserveCategoryName" value="Property Settlement"/>
+                                                <property name="ReserveCategoryNameEnumId" value="72702006"/>
+                                                <property name="TotalAmount" value="0.0"/>
+                                                <property name="ApprovedToDate" value="0.0"/>
+                                                <property name="PaidToDate" value="0.0"/>
+                                                <property name="BalanceOutstanding" value="0.0"/>
+                                            </object>
+                                        </property>
+                                    </object>
+                                </property>
+                            </object>
+                        </property>
+                        <property name="Participant" index="0">
+                            <object class="Th_159026648_5_Participant" name="Participant">
+                                <property name="Role" value="Insured"/>
+                                <property name="DateStarted" value="2020-02-03T00:00:00.000+10:00"
+                                          display="2020-02-03"/>
+                                <property name="Party">
+                                    <object class="Th_159026648_5_PartyDetails" name="Party">
+                                        <property name="CustomerNumber" value="3"/>
+                                        <property name="PartyName" value="Mr Srikanth Behra"/>
+                                        <property name="Person">
+                                            <object class="Th_159026648_5_PersonDetails" name="Person">
+                                                <property name="Title" value="Mr"/>
+                                                <property name="FirstName" value="Srikanth"/>
+                                                <property name="LastName" value="Behra"/>
+                                                <property name="DateOfBirth" value="2020-01-01T00:00:00.000+10:00"
+                                                          display="2020-01-01"/>
+                                            </object>
+                                        </property>
+                                        <property name="Address">
+                                            <object class="Th_159026648_5_Address" name="Address">
+                                                <property name="StreetAddress"
+                                                          value="Royal &amp;amp; Ancient, Forgan House, The Links, ST. ANDREWS"/>
+                                                <property name="Suburb" value="FIFE"/>
+                                                <property name="PostCode" value="KY16 9JB"/>
+                                                <property name="Country" value="United Kingdom"/>
+                                                <property name="AsString"
+                                                          value="Royal &amp;amp; Ancient, Forgan House, The Links, ST. ANDREWS, FIFE, United Kingdom, KY16 9JB"/>
+                                            </object>
+                                        </property>
+                                        <property name="PhoneNumber" value="04645645676"/>
+                                        <property name="PhoneNumberCountryCode" value="44"/>
+                                        <property name="Email" value="srikanth_behra@gbtpa.com.au"/>
+                                    </object>
+                                </property>
+                            </object>
+                        </property>
+                        <property name="Participant" index="1">
+                            <object class="Th_159026648_5_Participant" name="Participant">
+                                <property name="Role" value="Insurer"/>
+                                <property name="DateStarted" value="2020-02-03T00:00:00.000+10:00"
+                                          display="2020-02-03"/>
+                                <property name="Party">
+                                    <object class="Th_159026648_5_PartyDetails" name="Party">
+                                        <property name="CustomerNumber" value="252"/>
+                                        <property name="PartyName" value="Apollo Property Developers"/>
+                                        <property name="Organisation">
+                                            <object class="Th_159026648_5_OrganisationDetails" name="Organisation">
+                                                <property name="ShortName" value="APOLLO"/>
+                                                <property name="Name" value="Apollo Property Developers"/>
+                                                <property name="ABN" value="APOLLO9786"/>
+                                                <property name="BankAccount" value="NWBK15655648"/>
+                                            </object>
+                                        </property>
+                                        <property name="Address">
+                                            <object class="Th_159026648_5_Address" name="Address">
+                                                <property name="StreetAddress"
+                                                          value="1807 Azalea Place Road, , South Hall"/>
+                                                <property name="Suburb" value="London"/>
+                                                <property name="PostCode" value="UB1 1DQ"/>
+                                                <property name="Country" value="United Kingdom"/>
+                                                <property name="AsString"
+                                                          value="1807 Azalea Place Road, , South Hall, London, United Kingdom, UB1 1DQ"/>
+                                            </object>
+                                        </property>
+                                        <property name="PhoneNumber" value="207337700"/>
+                                        <property name="PhoneNumberCountryCode" value="44"/>
+                                        <property name="Email" value="websiteenquiries@sompocanopius.com"/>
+                                    </object>
+                                </property>
+                            </object>
+                        </property>
+                        <property name="Participant" index="2">
+                            <object class="Th_159026648_5_Participant" name="Participant">
+                                <property name="Role" value="Payee"/>
+                                <property name="DateStarted" value="2020-02-03T00:00:00.000+10:00"
+                                          display="2020-02-03"/>
+                                <property name="Party">
+                                    <object class="Th_159026648_5_PartyDetails" name="Party">
+                                        <property name="CustomerNumber" value="3"/>
+                                        <property name="PartyName" value="Mr Srikanth Behra"/>
+                                        <property name="Person">
+                                            <object class="Th_159026648_5_PersonDetails" name="Person">
+                                                <property name="Title" value="Mr"/>
+                                                <property name="FirstName" value="Srikanth"/>
+                                                <property name="LastName" value="Behra"/>
+                                                <property name="DateOfBirth" value="2020-01-01T00:00:00.000+10:00"
+                                                          display="2020-01-01"/>
+                                            </object>
+                                        </property>
+                                        <property name="Address">
+                                            <object class="Th_159026648_5_Address" name="Address">
+                                                <property name="StreetAddress"
+                                                          value="Royal &amp;amp; Ancient, Forgan House, The Links, ST. ANDREWS"/>
+                                                <property name="Suburb" value="FIFE"/>
+                                                <property name="PostCode" value="KY16 9JB"/>
+                                                <property name="Country" value="United Kingdom"/>
+                                                <property name="AsString"
+                                                          value="Royal &amp;amp; Ancient, Forgan House, The Links, ST. ANDREWS, FIFE, United Kingdom, KY16 9JB"/>
+                                            </object>
+                                        </property>
+                                        <property name="PhoneNumber" value="04645645676"/>
+                                        <property name="PhoneNumberCountryCode" value="44"/>
+                                        <property name="Email" value="srikanth_behra@gbtpa.com.au"/>
+                                    </object>
+                                </property>
+                            </object>
+                        </property>
+                    </object>
+                </property>
+                <property name="ClaimInsurer">
+                    <object class="Th_159026648_5_Participant" name="ClaimInsurer">
+                        <property name="Role" value="Insurer"/>
+                        <property name="DateStarted" value="2020-02-03T00:00:00.000+10:00" display="2020-02-03"/>
+                        <property name="Party">
+                            <object class="Th_159026648_5_PartyDetails" name="Party">
+                                <property name="CustomerNumber" value="252"/>
+                                <property name="PartyName" value="Apollo Property Developers"/>
+                                <property name="Organisation">
+                                    <object class="Th_159026648_5_OrganisationDetails" name="Organisation">
+                                        <property name="ShortName" value="APOLLO"/>
+                                        <property name="Name" value="Apollo Property Developers"/>
+                                        <property name="ABN" value="APOLLO9786"/>
+                                        <property name="BankAccount" value="NWBK15655648"/>
+                                    </object>
+                                </property>
+                                <property name="Address">
+                                    <object class="Th_159026648_5_Address" name="Address">
+                                        <property name="StreetAddress" value="1807 Azalea Place Road, , South Hall"/>
+                                        <property name="Suburb" value="London"/>
+                                        <property name="PostCode" value="UB1 1DQ"/>
+                                        <property name="Country" value="United Kingdom"/>
+                                        <property name="AsString"
+                                                  value="1807 Azalea Place Road, , South Hall, London, United Kingdom, UB1 1DQ"/>
+                                    </object>
+                                </property>
+                                <property name="PhoneNumber" value="207337700"/>
+                                <property name="PhoneNumberCountryCode" value="44"/>
+                                <property name="Email" value="websiteenquiries@sompocanopius.com"/>
+                            </object>
+                        </property>
+                    </object>
+                </property>
+                <property name="ClaimClaimant">
+                    <object class="Th_159026648_5_Participant" name="ClaimClaimant">
+                        <property name="Role" value="Claimant"/>
+                        <property name="DateStarted" value="2020-02-03T00:00:00.000+10:00" display="2020-02-03"/>
+                        <property name="Party">
+                            <object class="Th_159026648_5_PartyDetails" name="Party">
+                                <property name="CustomerNumber" value="3"/>
+                                <property name="PartyName" value="Mr Srikanth Behra"/>
+                                <property name="Person">
+                                    <object class="Th_159026648_5_PersonDetails" name="Person">
+                                        <property name="Title" value="Mr"/>
+                                        <property name="FirstName" value="Srikanth"/>
+                                        <property name="LastName" value="Behra"/>
+                                        <property name="DateOfBirth" value="2020-01-01T00:00:00.000+10:00"
+                                                  display="2020-01-01"/>
+                                    </object>
+                                </property>
+                                <property name="Address">
+                                    <object class="Th_159026648_5_Address" name="Address">
+                                        <property name="StreetAddress"
+                                                  value="Royal &amp;amp; Ancient, Forgan House, The Links, ST. ANDREWS"/>
+                                        <property name="Suburb" value="FIFE"/>
+                                        <property name="PostCode" value="KY16 9JB"/>
+                                        <property name="Country" value="United Kingdom"/>
+                                        <property name="AsString"
+                                                  value="Royal &amp;amp; Ancient, Forgan House, The Links, ST. ANDREWS, FIFE, United Kingdom, KY16 9JB"/>
+                                    </object>
+                                </property>
+                                <property name="PhoneNumber" value="04645645676"/>
+                                <property name="PhoneNumberCountryCode" value="44"/>
+                                <property name="Email" value="srikanth_behra@gbtpa.com.au"/>
+                            </object>
+                        </property>
+                    </object>
+                </property>
+                <property name="ClaimNotifier">
+                    <object class="Th_159026648_5_Participant" name="ClaimNotifier">
+                        <property name="Role" value="Notifier"/>
+                        <property name="DateStarted" value="2020-02-03T00:00:00.000+10:00" display="2020-02-03"/>
+                        <property name="Party">
+                            <object class="Th_159026648_5_PartyDetails" name="Party">
+                                <property name="CustomerNumber" value="3"/>
+                                <property name="PartyName" value="Mr Srikanth Behra"/>
+                                <property name="Person">
+                                    <object class="Th_159026648_5_PersonDetails" name="Person">
+                                        <property name="Title" value="Mr"/>
+                                        <property name="FirstName" value="Srikanth"/>
+                                        <property name="LastName" value="Behra"/>
+                                        <property name="DateOfBirth" value="2020-01-01T00:00:00.000+10:00"
+                                                  display="2020-01-01"/>
+                                    </object>
+                                </property>
+                                <property name="Address">
+                                    <object class="Th_159026648_5_Address" name="Address">
+                                        <property name="StreetAddress"
+                                                  value="Royal &amp;amp; Ancient, Forgan House, The Links, ST. ANDREWS"/>
+                                        <property name="Suburb" value="FIFE"/>
+                                        <property name="PostCode" value="KY16 9JB"/>
+                                        <property name="Country" value="United Kingdom"/>
+                                        <property name="AsString"
+                                                  value="Royal &amp;amp; Ancient, Forgan House, The Links, ST. ANDREWS, FIFE, United Kingdom, KY16 9JB"/>
+                                    </object>
+                                </property>
+                                <property name="PhoneNumber" value="04645645676"/>
+                                <property name="PhoneNumberCountryCode" value="44"/>
+                                <property name="Email" value="srikanth_behra@gbtpa.com.au"/>
+                            </object>
+                        </property>
+                    </object>
+                </property>
+                <property name="ClaimInsured">
+                    <object class="Th_159026648_5_Participant" name="ClaimInsured">
+                        <property name="Role" value="Insured"/>
+                        <property name="DateStarted" value="2020-02-03T00:00:00.000+10:00" display="2020-02-03"/>
+                        <property name="Party">
+                            <object class="Th_159026648_5_PartyDetails" name="Party">
+                                <property name="CustomerNumber" value="3"/>
+                                <property name="PartyName" value="Mr Srikanth Behra"/>
+                                <property name="Person">
+                                    <object class="Th_159026648_5_PersonDetails" name="Person">
+                                        <property name="Title" value="Mr"/>
+                                        <property name="FirstName" value="Srikanth"/>
+                                        <property name="LastName" value="Behra"/>
+                                        <property name="DateOfBirth" value="2020-01-01T00:00:00.000+10:00"
+                                                  display="2020-01-01"/>
+                                    </object>
+                                </property>
+                                <property name="Address">
+                                    <object class="Th_159026648_5_Address" name="Address">
+                                        <property name="StreetAddress"
+                                                  value="Royal &amp;amp; Ancient, Forgan House, The Links, ST. ANDREWS"/>
+                                        <property name="Suburb" value="FIFE"/>
+                                        <property name="PostCode" value="KY16 9JB"/>
+                                        <property name="Country" value="United Kingdom"/>
+                                        <property name="AsString"
+                                                  value="Royal &amp;amp; Ancient, Forgan House, The Links, ST. ANDREWS, FIFE, United Kingdom, KY16 9JB"/>
+                                    </object>
+                                </property>
+                                <property name="PhoneNumber" value="04645645676"/>
+                                <property name="PhoneNumberCountryCode" value="44"/>
+                                <property name="Email" value="srikanth_behra@gbtpa.com.au"/>
+                            </object>
+                        </property>
+                    </object>
+                </property>
+                <property name="RequestGenerationDate" value="2020-02-13T00:00:00.000+10:00" display="13/02/2020"/>
+            </object>
+        </objects>
+    </transaction>
+    <review-document docdef-resid="157909509" docdef-resverid="290026881" bo-class="" bo-name=""
+                     styleset-resid="157795016" styleset-resverid="159039605" language="-1" jurisdiction="290000001"
+                     idiom="-1" device="" brand="290000005" effective-date="13/Feb/2020 13:22:40">
+        <userkeys/>
+        <review-channel channel="1" destination="0" layout-resid="157795015" layout-resverid="158271263" dch-resid="0"
+                        dch-resverid="0">
+            <properties>
+                <property name="email.subject" value="Our ref: UK000171-01 Acknowledgement of your complaint"/>
+                <property name="email.address" value="srikanth_behra@gbtpa.com.au"/>
+                <property name="numAttachAllowed" value="15"/>
+                <property name="print.config.resid" value="157802064"/>
+                <property name="email.ccaddress" value=""/>
+                <property name="tooManyAttachments" value="false"/>
+                <property name="attachmentCount" value="0"/>
+                <property name="email.sender" value="email_test_gen89-si@gbtpa.com.au"/>
+                <property name="attachmentSource"
+                          value="https://process.dms.view:123456@gen89-si-esb.gbau.ajgco.com:443/process/dms/document/view/"/>
+                <property name="smtp.attachmentname-1" value="A&amp;G IDR Complaint Dispute Brochure.pdf"
+                          path="AutoAttachName"/>
+            </properties>
+            <content>
+                <region name="Main Region">
+                    <section id="983552469" name="Document" fragresid="157909509" fragresverid="290026881">
+                        <section id="705021823" name="Header" fragresid="157909509" fragresverid="290026881">
+                            <frag id="449470448" name="Fragment" no-match="error" type="text" edit-groups="*"
+                                  fragresid="157919878" fragresverid="158680343">
+                                <lcij id="1752884527" name="Default Edition">
+                                    <p style="Body" xml:space="preserve">Dear <var name="AddresseeTitle" type="string"
+                                                                                   full-path="Correspondence.RequestDetails.EmailRecipients.Recipient[0].Person.Title">Mr</var> <var
+                                            name="AddresseeLastName" type="string"
+                                            full-path="Correspondence.RequestDetails.EmailRecipients.Recipient[0].Person.LastName">Behra</var>,</p>
+                                </lcij>
+                            </frag>
+                        </section>
+                        <section id="851351608" name="Body" fragresid="157909509" fragresverid="290026881">
+                            <frag id="133830972" name="Body1" no-match="error" type="text" fragresid="157909509"
+                                  fragresverid="290026881">
+                                <lcij id="454231049" name="Body">
+                                    <p style="Heading" xml:space="preserve">Acknowledgement of your complaint<style
+                                            name="Bold"><br/></style></p>
+                                </lcij>
+                            </frag>
+                            <choice-list id="552848219" name="Compliant_Options" description="Compliant Options"
+                                         type="single" required="true" fragresid="157909509" fragresverid="290026881">
+                                <choice id="333939051" name="Indemnity Decision" description="Indemnity Decision">
+                                    <frag id="1554313696" name="Indemnity Decision-A&amp;G / ING" no-match="error"
+                                          type="text" edit-groups="*" fragresid="157909509" fragresverid="290026881">
+                                        <lcij id="1730240713" name="Indemnity Decision-A&amp;G">
+                                            <p style="Body" xml:space="preserve">We confirm that following the receipt of the complaint with respect to the indemnity decision, this matter will now be handled in accordance with Stage One of the Auto &amp; General Insurance Company Dispute Resolution brochure, attached for your reference.<br/></p><p
+                                                style="Body" xml:space="preserve">We acknowledge that the complaint in question relates to <style
+                                                name="Highlight">XXXXX (provide a brief summary of the basis of the complaint).</style>
+                                            <br/></p>
+                                        </lcij>
+                                    </frag>
+                                </choice>
+                                <choice id="271304002" name="Value of the Claim" description="Value of the Claim">
+                                    <frag id="1133806461" name="Value of the Claim-A&amp;G / ING" no-match="error"
+                                          type="text" edit-groups="*" fragresid="157909509" fragresverid="290026881">
+                                        <lcij id="1553216410" name="Value of the Claim-A&amp;G">
+                                            <p style="Body" xml:space="preserve">We confirm that following the receipt of the complaint with respect to the value of the claim, this matter will now be handled in accordance with Stage One of the Auto &amp; General Insurance Company Dispute Resolution brochure, attached for your reference.<br/></p><p
+                                                style="Body" xml:space="preserve">We acknowledge that the complaint in question relates to <style
+                                                name="Highlight">XXXXX (provide a brief summary of the basis of the complaint).</style>
+                                            <br/></p>
+                                        </lcij>
+                                    </frag>
+                                </choice>
+                                <choice id="301307944" name="Financial Hardship Decision"
+                                        description="Financial Hardship Decision">
+                                    <frag id="1675896780" name="Financial Hardship Decision-A&amp;G / ING"
+                                          no-match="error" type="text" edit-groups="*" fragresid="157909509"
+                                          fragresverid="290026881">
+                                        <lcij id="2026065323" name="Financial Hardship Decision-A&amp;G">
+                                            <p style="Body" xml:space="preserve">We confirm that following the receipt of the complaint with respect to the financial hardship decision, this matter will now be handled in accordance with Stage One of the Auto &amp; General Insurance Company Dispute Resolution brochure, attached for your reference.<br/></p><p
+                                                style="Body" xml:space="preserve">We acknowledge that the complaint in question relates to <style
+                                                name="Highlight">XXXXX (provide a brief summary of the basis of the complaint).</style>
+                                            <br/></p>
+                                        </lcij>
+                                    </frag>
+                                </choice>
+                                <choice id="1718689873" name="Other - Please Specify"
+                                        description="Other - Please Specify">
+                                    <frag id="1638512864" name="Other-A&amp;G / ING" no-match="error" type="text"
+                                          edit-groups="*" fragresid="157909509" fragresverid="290026881">
+                                        <lcij id="1407618980" name="Other-A&amp;G">
+                                            <p style="Body" xml:space="preserve">We confirm that following the receipt of the complaint with respect to  <style
+                                                    name="Highlight">enter text here</style> , this matter will now be
+                                                handled in accordance with Stage One of the Auto &amp; General Insurance
+                                                Company Dispute Resolution brochure, attached for your reference.
+                                                <br/></p><p style="Body" xml:space="preserve">We acknowledge that the complaint in question relates to <style
+                                                name="Highlight">XXXXX (provide a brief summary of the basis of the complaint).</style>
+                                            <br/></p>
+                                        </lcij>
+                                    </frag>
+                                </choice>
+                            </choice-list>
+                            <frag id="1192832343" name="A&amp;G / INS / Budget Direct" no-match="error" type="text"
+                                  edit-groups="*" fragresid="157909509" fragresverid="290026881">
+                                <lcij id="151226507" name="A&amp;G">
+                                    <p style="Body" xml:space="preserve">As per Stage One of the complaints process, we have now referred this matter to the team manager to review in accordance with the obligations pursuant to Section 10 of the General Insurance Code of Practice (''the Code''). A response is required to be issued to you within 15 business days from the date that the complaint was made.<br/></p>
+                                </lcij>
+                            </frag>
+                            <frag id="132816360" name="body3" no-match="error" type="text" edit-groups="*"
+                                  fragresid="157909509" fragresverid="290026881">
+                                <lcij id="1459345789" name="body3">
+                                    <p style="Body" xml:space="preserve">At that time, pursuant to section 10.13 of the Code, Underwriters are required to respond to you in writing and advise you of:<br/></p>
+                                    <table width="100%">
+                                        <col width="2.71%"/>
+                                        <col width="97.29%"/>
+                                        <tablebody>
+                                            <row>
+                                                <cell>
+                                                    <p xml:space="preserve"/>
+                                                </cell>
+                                                <cell>
+                                                    <p style="Body" xml:space="preserve"><style name="indent">a.    their decision in relation to your complaint;<br/>b.
+                                                        the reasons for their decision;<br/>c. your right to take your
+                                                        complaint to Stage Two if the decision at Stage One does not
+                                                        resolve your complaint to your satisfaction; and<br/>d. if your
+                                                        complaint falls within the rules and operational guidelines of
+                                                        AFCA, and you are still not satisfied with their decision after
+                                                        Stage Two, you have the right to take your complaint to AFCA,
+                                                        together with contact details for this independent body, and the
+                                                        timeframe within which you must proceed with your complaint.
+                                                        <br/>e. if your complaint does NOT fall within AFCA's rules and
+                                                        operational guidelines, and you are still not satisfied with
+                                                        their decision after Stage Two, you have the right to pursue
+                                                        your complaint via the relevant Statutory Body, Tribunal or
+                                                        Court as appropriate to the nature of your complaint.</style></p>
+                                                </cell>
+                                            </row>
+                                        </tablebody>
+                                    </table>
+                                </lcij>
+                            </frag>
+                            <frag id="192018459" name="A&amp;G / ING" no-match="error" type="text" edit-groups="*"
+                                  fragresid="157909509" fragresverid="290026881">
+                                <lcij id="1705459203" name="Indemnity Decision">
+                                    <p style="Body" xml:space="preserve">If a response cannot be provided within 15 business days because we do not have all necessary information or Auto &amp; General has not completed their investigation, we will:<br/></p>
+                                    <table width="100%">
+                                        <col width="2.71%"/>
+                                        <col width="97.29%"/>
+                                        <tablebody>
+                                            <row>
+                                                <cell>
+                                                    <p xml:space="preserve"/>
+                                                </cell>
+                                                <cell>
+                                                    <p style="Body" xml:space="preserve">a.    let you know as soon as reasonably practical within the 15 business day timeframe, and agree a reasonable alternative timetable with you. If we cannot reach an agreement on an alternative timetable, we will advise you of your right to take your complaint to Stage Two of the complaints process; and<br/>b.
+                                                        we will keep you informed about the progress of our response at
+                                                        least every ten business days, unless you agree otherwise.</p>
+                                                </cell>
+                                            </row>
+                                        </tablebody>
+                                    </table>
+                                </lcij>
+                            </frag>
+                        </section>
+                        <section id="869902307" name="Footer" fragresid="157909509" fragresverid="290026881">
+                            <frag id="1093211118" name="Fragment" type="text" fragresid="157921487"
+                                  fragresverid="159037964">
+                                <lcij id="734483298" name="Default Edition">
+                                    <p style="Heading" xml:space="preserve">How to get in touch with us<br/></p><p
+                                        style="Body" xml:space="preserve">Do not hesitate to contact us if you have any questions. Remember to quote the claim number in all correspondence with us.</p>
+                                </lcij>
+                            </frag>
+                            <frag id="1416693788" name="Auto General" no-match="error" type="text" fragresid="157921487"
+                                  fragresverid="159037964">
+                                <lcij id="1550380635" name="new text fragment">
+                                    <p style="Body" xml:space="preserve">You can call us on 07 3012 3070 or email us at <style
+                                            name="hyperlink">autogeneral@claims-travel.com.au</style></p>
+                                </lcij>
+                            </frag>
+                            <frag id="1085672520" name="Fragment2" no-match="error" type="text" fragresid="157921487"
+                                  fragresverid="159037964">
+                                <lcij id="1436200012" name="Fragment2">
+                                    <p style="Body" xml:space="preserve">You can also contact us via post or fax. These details are noted below for your reference.<br/></p><p
+                                        style="Body" xml:space="preserve">Yours faithfully,</p>
+                                </lcij>
+                            </frag>
+                        </section>
+                        <section id="1562260993" name="Signature" fragresid="157909509" fragresverid="290026881">
+                            <frag id="697269902" name="Auto General" no-match="error" type="text" fragresid="157940098"
+                                  fragresverid="159039735">
+                                <lcij id="341961731" name="new text fragment">
+                                    <p style="Signature_AG" xml:space="preserve"><b><var name="SenderName" type="string" full-path="Correspondence.Case.CurrentUser.Name">Generic Claims Consultant</var></b></p><p
+                                        style="Signature_AG" xml:space="preserve"><b><var name="SenderRole" type="string" full-path="Correspondence.Case.CurrentUser.Role">Claims Consultant</var></b></p><p
+                                        style="Signature_AG"
+                                        xml:space="preserve">Auto &amp; General Holdings Pty Ltd</p><p
+                                        style="Signature_AG" xml:space="preserve">P: 07 3012 3070</p><p
+                                        style="Signature_AG" xml:space="preserve"><frag id="1320513382" name="Fragment" type="text" fragresid="290014611" fragresverid="290021290"><p style="Signature_AG2" xml:space="preserve"><imagelink src="https://gbbnevdscm1.dev.gbapres.local/smartcomms/clientServices/resources?resourceName=290021290~6ff3aa8f.PNG" width="185px" height="33px" format="PNG" horizdpi="96.01199" vertdpi="96.01199" checksum="6ff3aa8f"/></p></frag></p>
+                                </lcij>
+                            </frag>
+                        </section>
+                        <section id="1612086350" name="AttachmentListing" fragresid="157909509"
+                                 fragresverid="290026881">
+                            <section id="2023403455" name="Attachment Info" edit-groups="*" fragresid="157805014"
+                                     fragresverid="158291259"/>
+                        </section>
+                        <section id="614395379" name="DefaultAttachment" fragresid="157909509" fragresverid="290026881">
+                            <frag id="1073477160" name="Attachment Summary heading" no-match="error" type="text"
+                                  fragresid="157909509" fragresverid="290026881">
+                                <lcij id="1397173353" name="new text fragment">
+                                    <p style="Body" xml:space="preserve">Attachment Summary:</p>
+                                </lcij>
+                            </frag>
+                            <enclosure enclosureid="1" channelid="1" resid="290014253" resverid="158905206"/>
+                            <frag id="1074991259" name="Auto Attachment Name" no-match="error" type="text"
+                                  fragresid="157909509" fragresverid="290026881">
+                                <lcij id="1292340270" name="A&amp;G Fragment">
+                                    <p style="Body" xml:space="preserve"><var name="DisplayAutoAttachName" type="any">A&amp;G IDR Complaint Dispute Brochure.PDF</var></p>
+                                </lcij>
+                            </frag>
+                        </section>
+                    </section>
+                </region>
+            </content>
+            <enclosures>
+                <review-document docdef-resid="290014253" docdef-resverid="158905206" bo-class="" bo-name=""
+                                 styleset-resid="157795016" styleset-resverid="159039605" language="-1"
+                                 jurisdiction="290000001" idiom="-1" device="" brand="290000005"
+                                 effective-date="13/Feb/2020 13:22:40" enclosureid="1">
+                    <userkeys/>
+                    <review-channel channel="2" destination="3" layout-resid="290014715" layout-resverid="158924559">
+                        <properties/>
+                        <content>
+                            <region name="Main Body">
+                                <section id="1441316823" name="Document" fragresid="290014253" fragresverid="158905206">
+                                    <frag name="A&amp;G" type="text">
+                                        <lcij>
+                                            <imagelink multi-page-tiff="false" format="pdf" src="cms:157980531"
+                                                       alt="A&amp;G" use-specified-dimensions="false"/>
+                                        </lcij>
+                                    </frag>
+                                </section>
+                            </region>
+                        </content>
+                    </review-channel>
+                </review-document>
+            </enclosures>
+        </review-channel>
+    </review-document>
+</review-case>

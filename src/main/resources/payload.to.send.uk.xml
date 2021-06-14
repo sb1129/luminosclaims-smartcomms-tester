@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns3:Correspondence xmlns:ns2="http://www.gallagherbasset.com.au/smartcommsappliance" xmlns:ns3="http://www.gallagherbasset.com.au/smartcommsintegrations">
+    <RequestDetails>
+        <RequestGenerationTime>2020-02-13T11:46:24.663+10:00</RequestGenerationTime>
+        <Region>au</Region>
+        <Client>gi</Client>
+        <Channel>Web</Channel>
+        <TemplateId>157909509</TemplateId>
+        <Recipients>srikanth_behra@gbtpa.com.au</Recipients>
+        <EmailRecipients>
+            <Recipient>
+                <CustomerNumber>3</CustomerNumber>
+                <PartyName>Mr Srikanth Behra</PartyName>
+                <Person>
+                    <Title>Mr</Title>
+                    <FirstName>Srikanth</FirstName>
+                    <LastName>Behra</LastName>
+                    <DateOfBirth>2020-01-01+10:00</DateOfBirth>
+                </Person>
+                <Address>
+                    <StreetAddress>Royal &amp; Ancient, Forgan House, The Links, ST. ANDREWS</StreetAddress>
+                    <Suburb>FIFE</Suburb>
+                    <PostCode>KY16 9JB</PostCode>
+                    <Country>United Kingdom</Country>
+                    <AsString>Royal &amp; Ancient, Forgan House, The Links, ST. ANDREWS, FIFE, United Kingdom, KY16 9JB</AsString>
+                </Address>
+                <PhoneNumber>04645645676</PhoneNumber>
+                <PhoneNumberCountryCode>44</PhoneNumberCountryCode>
+                <Email>srikanth_behra@gbtpa.com.au</Email>
+            </Recipient>
+        </EmailRecipients>
+        <SenderAddress>email_test_gen89-si@gbtpa.com.au</SenderAddress>
+        <Subject>Our ref: UK000171-01 Acknowledgement of your complaint</Subject>
+        <ResponseBody></ResponseBody>
+        <MainRecipientParticipant/>
+        <AttachmentSource>https://process.dms.view:123456@gen89-si-esb.gbau.ajgco.com:443/process/dms/document/view/</AttachmentSource>
+        <SignatureTemplateId>SIG_BLOCK_AUTO_GENERAL</SignatureTemplateId>
+    </RequestDetails>
+    <Notification>
+        <CaseNumber>UK000171</CaseNumber>
+        <SummaryIncidentDescription>fsfdsfsd</SummaryIncidentDescription>
+        <DateCreated>2020-02-03T08:12:57.850+10:00</DateCreated>
+        <ReportedToNotifierDate>2020-01-09T14:00:00.000Z</ReportedToNotifierDate>
+        <ReportedToGBDate>2020-02-02T22:13:31.000+10:00</ReportedToGBDate>
+        <Participant>
+            <Role>Insured</Role>
+            <DateStarted>2020-02-03T00:00:00.000+10:00</DateStarted>
+            <Party>
+                <CustomerNumber>3</CustomerNumber>
+                <PartyName>Mr Srikanth Behra</PartyName>
+                <Person>
+                    <Title>Mr</Title>
+                    <FirstName>Srikanth</FirstName>
+                    <LastName>Behra</LastName>
+                    <DateOfBirth>2020-01-01+10:00</DateOfBirth>
+                </Person>
+                <Address>
+                    <StreetAddress>Royal &amp; Ancient, Forgan House, The Links, ST. ANDREWS</StreetAddress>
+                    <Suburb>FIFE</Suburb>
+                    <PostCode>KY16 9JB</PostCode>
+                    <Country>United Kingdom</Country>
+                    <AsString>Royal &amp; Ancient, Forgan House, The Links, ST. ANDREWS, FIFE, United Kingdom, KY16 9JB</AsString>
+                </Address>
+                <PhoneNumber>04645645676</PhoneNumber>
+                <PhoneNumberCountryCode>44</PhoneNumberCountryCode>
+                <Email>srikanth_behra@gbtpa.com.au</Email>
+            </Party>
+        </Participant>
+        <Participant>
+            <Role>Notifier</Role>
+            <DateStarted>2020-02-03T00:00:00.000+10:00</DateStarted>
+            <Party>
+                <CustomerNumber>3</CustomerNumber>
+                <PartyName>Mr Srikanth Behra</PartyName>
+                <Person>
+                    <Title>Mr</Title>
+                    <FirstName>Srikanth</FirstName>
+                    <LastName>Behra</LastName>
+                    <DateOfBirth>2020-01-01+10:00</DateOfBirth>
+                </Person>
+                <Address>
+                    <StreetAddress>Royal &amp; Ancient, Forgan House, The Links, ST. ANDREWS</StreetAddress>
+                    <Suburb>FIFE</Suburb>
+                    <PostCode>KY16 9JB</PostCode>
+                    <Country>United Kingdom</Country>
+                    <AsString>Royal &amp; Ancient, Forgan House, The Links, ST. ANDREWS, FIFE, United Kingdom, KY16 9JB</AsString>
+                </Address>
+                <PhoneNumber>04645645676</PhoneNumber>
+                <PhoneNumberCountryCode>44</PhoneNumberCountryCode>
+                <Email>srikanth_behra@gbtpa.com.au</Email>
+            </Party>
+        </Participant>
+        <Participant>
+            <Role>Insurer</Role>
+            <DateStarted>2020-02-03T00:00:00.000+10:00</DateStarted>
+            <Party>
+                <CustomerNumber>252</CustomerNumber>
+                <PartyName>Apollo Property Developers</PartyName>
+                <Organisation>
+                    <ShortName>APOLLO</ShortName>
+                    <Name>Apollo Property Developers</Name>
+                    <ABN>APOLLO9786</ABN>
+                    <BankAccount>NWBK15655648</BankAccount>
+                </Organisation>
+                <Address>
+                    <StreetAddress>1807 Azalea Place Road, , South Hall</StreetAddress>
+                    <Suburb>London</Suburb>
+                    <PostCode>UB1 1DQ</PostCode>
+                    <Country>United Kingdom</Country>
+                    <AsString>1807 Azalea Place Road, , South Hall, London, United Kingdom, UB1 1DQ</AsString>
+                </Address>
+                <PhoneNumber>207337700</PhoneNumber>
+                <PhoneNumberCountryCode>44</PhoneNumberCountryCode>
+                <Email>websiteenquiries@sompocanopius.com</Email>
+            </Party>
+        </Participant>
+    </Notification>
+    <Case>
+        <CaseNumber>UK000171-01</CaseNumber>
+        <CaseType>Property Claim</CaseType>
+        <Description></Description>
+        <DateCreated>2020-02-03T08:15:58.397+10:00</DateCreated>
+        <IncidentDate>2020-01-01T14:00:00.000Z</IncidentDate>
+        <CurrentUser>
+            <Name>Generic Claims Consultant</Name>
+            <ContactNumber>01155555555</ContactNumber>
+            <ContactEmail>gencm@gbtpa.com.au</ContactEmail>
+            <Role>Claims Consultant</Role>
+            <DefaultDepartment>State Department</DefaultDepartment>
+            <Department>Generic Product</Department>
+        </CurrentUser>
+        <ClaimHandler>
+            <Name>Generic Claims Consultant</Name>
+            <ContactNumber>01155555555</ContactNumber>
+            <ContactEmail>gencm@gbtpa.com.au</ContactEmail>
+            <Role>Claims Consultant</Role>
+            <DefaultDepartment>State Department</DefaultDepartment>
+            <Department>Generic Product</Department>
+        </ClaimHandler>
+        <Participant>
+            <Role>Insured</Role>
+            <DateStarted>2020-02-03T00:00:00.000+10:00</DateStarted>
+            <Party>
+                <CustomerNumber>3</CustomerNumber>
+                <PartyName>Mr Srikanth Behra</PartyName>
+                <Person>
+                    <Title>Mr</Title>
+                    <FirstName>Srikanth</FirstName>
+                    <LastName>Behra</LastName>
+                    <DateOfBirth>2020-01-01+10:00</DateOfBirth>
+                </Person>
+                <Address>
+                    <StreetAddress>Royal &amp; Ancient, Forgan House, The Links, ST. ANDREWS</StreetAddress>
+                    <Suburb>FIFE</Suburb>
+                    <PostCode>KY16 9JB</PostCode>
+                    <Country>United Kingdom</Country>
+                    <AsString>Royal &amp; Ancient, Forgan House, The Links, ST. ANDREWS, FIFE, United Kingdom, KY16 9JB</AsString>
+                </Address>
+                <PhoneNumber>04645645676</PhoneNumber>
+                <PhoneNumberCountryCode>44</PhoneNumberCountryCode>
+                <Email>srikanth_behra@gbtpa.com.au</Email>
+            </Party>
+        </Participant>
+        <Participant>
+            <Role>Claim Contact</Role>
+            <DateStarted>2020-02-03T00:00:00.000+10:00</DateStarted>
+            <Party>
+                <CustomerNumber>3</CustomerNumber>
+                <PartyName>Mr Srikanth Behra</PartyName>
+                <Person>
+                    <Title>Mr</Title>
+                    <FirstName>Srikanth</FirstName>
+                    <LastName>Behra</LastName>
+                    <DateOfBirth>2020-01-01+10:00</DateOfBirth>
+                </Person>
+                <Address>
+                    <StreetAddress>Royal &amp; Ancient, Forgan House, The Links, ST. ANDREWS</StreetAddress>
+                    <Suburb>FIFE</Suburb>
+                    <PostCode>KY16 9JB</PostCode>
+                    <Country>United Kingdom</Country>
+                    <AsString>Royal &amp; Ancient, Forgan House, The Links, ST. ANDREWS, FIFE, United Kingdom, KY16 9JB</AsString>
+                </Address>
+                <PhoneNumber>04645645676</PhoneNumber>
+                <PhoneNumberCountryCode>44</PhoneNumberCountryCode>
+                <Email>srikanth_behra@gbtpa.com.au</Email>
+            </Party>
+        </Participant>
+        <Participant>
+            <Role>Insurer</Role>
+            <DateStarted>2020-02-03T00:00:00.000+10:00</DateStarted>
+            <Party>
+                <CustomerNumber>252</CustomerNumber>
+                <PartyName>Apollo Property Developers</PartyName>
+                <Organisation>
+                    <ShortName>APOLLO</ShortName>
+                    <Name>Apollo Property Developers</Name>
+                    <ABN>APOLLO9786</ABN>
+                    <BankAccount>NWBK15655648</BankAccount>
+                </Organisation>
+                <Address>
+                    <StreetAddress>1807 Azalea Place Road, , South Hall</StreetAddress>
+                    <Suburb>London</Suburb>
+                    <PostCode>UB1 1DQ</PostCode>
+                    <Country>United Kingdom</Country>
+                    <AsString>1807 Azalea Place Road, , South Hall, London, United Kingdom, UB1 1DQ</AsString>
+                </Address>
+                <PhoneNumber>207337700</PhoneNumber>
+                <PhoneNumberCountryCode>44</PhoneNumberCountryCode>
+                <Email>websiteenquiries@sompocanopius.com</Email>
+            </Party>
+        </Participant>
+        <Participant>
+            <Role>Notifier</Role>
+            <DateStarted>2020-02-03T00:00:00.000+10:00</DateStarted>
+            <Party>
+                <CustomerNumber>3</CustomerNumber>
+                <PartyName>Mr Srikanth Behra</PartyName>
+                <Person>
+                    <Title>Mr</Title>
+                    <FirstName>Srikanth</FirstName>
+                    <LastName>Behra</LastName>
+                    <DateOfBirth>2020-01-01+10:00</DateOfBirth>
+                </Person>
+                <Address>
+                    <StreetAddress>Royal &amp; Ancient, Forgan House, The Links, ST. ANDREWS</StreetAddress>
+                    <Suburb>FIFE</Suburb>
+                    <PostCode>KY16 9JB</PostCode>
+                    <Country>United Kingdom</Country>
+                    <AsString>Royal &amp; Ancient, Forgan House, The Links, ST. ANDREWS, FIFE, United Kingdom, KY16 9JB</AsString>
+                </Address>
+                <PhoneNumber>04645645676</PhoneNumber>
+                <PhoneNumberCountryCode>44</PhoneNumberCountryCode>
+                <Email>srikanth_behra@gbtpa.com.au</Email>
+            </Party>
+        </Participant>
+        <Participant>
+            <Role>Claimant</Role>
+            <DateStarted>2020-02-03T00:00:00.000+10:00</DateStarted>
+            <Party>
+                <CustomerNumber>3</CustomerNumber>
+                <PartyName>Mr Srikanth Behra</PartyName>
+                <Person>
+                    <Title>Mr</Title>
+                    <FirstName>Srikanth</FirstName>
+                    <LastName>Behra</LastName>
+                    <DateOfBirth>2020-01-01+10:00</DateOfBirth>
+                </Person>
+                <Address>
+                    <StreetAddress>Royal &amp; Ancient, Forgan House, The Links, ST. ANDREWS</StreetAddress>
+                    <Suburb>FIFE</Suburb>
+                    <PostCode>KY16 9JB</PostCode>
+                    <Country>United Kingdom</Country>
+                    <AsString>Royal &amp; Ancient, Forgan House, The Links, ST. ANDREWS, FIFE, United Kingdom, KY16 9JB</AsString>
+                </Address>
+                <PhoneNumber>04645645676</PhoneNumber>
+                <PhoneNumberCountryCode>44</PhoneNumberCountryCode>
+                <Email>srikanth_behra@gbtpa.com.au</Email>
+            </Party>
+        </Participant>
+        <Policy>
+            <PolicyNumber>1234</PolicyNumber>
+            <PolicyReference>UK-APOLLO-PROPERTY-2016-COMMERCIAL PROPERTY</PolicyReference>
+            <Status>Open</Status>
+            <PolicyStartDate>2016-01-26T01:00:00.000+10:00</PolicyStartDate>
+            <PolicyEndDate>2022-12-31T10:00:00.000+10:00</PolicyEndDate>
+            <Product>Property</Product>
+            <SumInsuredAmount>0.00</SumInsuredAmount>
+            <InsuredExcessAmount>0.00</InsuredExcessAmount>
+            <ExcessMethod>Deduction</ExcessMethod>
+            <InsuredPolicyStartDate>2020-01-01T00:00:00.000+10:00</InsuredPolicyStartDate>
+            <InsuredPolicyEndDate>2020-12-31T00:00:00.000+10:00</InsuredPolicyEndDate>
+            <InsuredPolicyTimezone>GMT+00:00  United Kingdom  Greenwich Mean Time  GMT</InsuredPolicyTimezone>
+            <InsuredPolicyTimezoneEnum>512128006</InsuredPolicyTimezoneEnum>
+            <ClassOfBusiness>Professional Indemnity</ClassOfBusiness>
+            <ManagedBy>Adjusting Associates</ManagedBy>
+        </Policy>
+        <Benefit>
+            <BenefitCaseNumber>UK000171-01-01</BenefitCaseNumber>
+            <Status>Open</Status>
+            <BenefitCaseType>Property Benefit</BenefitCaseType>
+            <ProductType></ProductType>
+            <Description></Description>
+            <DateCreated>2020-02-03T08:18:02.873+10:00</DateCreated>
+            <FinancialDetails>
+                <Payments>
+                    <Payment>
+                        <Payee>Mr Srikanth Behra</Payee>
+                        <PayeeReference>test</PayeeReference>
+                        <PaymentMethod>EFT</PaymentMethod>
+                        <PaymentApprovedDate>2020-02-03T11:59:31.983+10:00</PaymentApprovedDate>
+                        <PaymentCreatedDate>2020-02-03T00:00:00.000+10:00</PaymentCreatedDate>
+                        <isPaymentApproved>Yes</isPaymentApproved>
+                        <PaymentDescriptor>Expenses - Cash Amount</PaymentDescriptor>
+                        <PaymentDescriptorEnumId>71070002</PaymentDescriptorEnumId>
+                        <PaymentTypeEnumId>71008001</PaymentTypeEnumId>
+                        <PaymentType>Adhoc</PaymentType>
+                        <PaymentStatus>Active</PaymentStatus>
+                        <PaymentStatusEnumId>64256005</PaymentStatusEnumId>
+                        <PEStatus>PendingActive</PEStatus>
+                        <isStatisticalPayment>No</isStatisticalPayment>
+                        <Amount>2000.00</Amount>
+                        <AdjustedAmount>2000.00</AdjustedAmount>
+                        <GSTRate>20</GSTRate>
+                        <PayeesITCPercent>30.00</PayeesITCPercent>
+                        <PaymentAddress>Royal &amp; Ancient
+                            Forgan House, The Links
+                            ST. ANDREWS
+                            FIFE
+                            KY16 9JB</PaymentAddress>
+                        <EFTPaymentDetails>
+                            <InstitutionName>NATIONAL WESTMINSTER BANK PLC</InstitutionName>
+                            <BankBranchName>CARDIFF, QUEEN STREET (A)</BankBranchName>
+                            <BankCode>NWBK</BankCode>
+                            <AccountName>Mr Srikanth Behra</AccountName>
+                            <BankAccount>23989613</BankAccount>
+                            <BankSortCode>01-01-55</BankSortCode>
+                            <AccountType>Domestic Account</AccountType>
+                        </EFTPaymentDetails>
+                    </Payment>
+                    <Payment>
+                        <Payee>Mr Srikanth Behra</Payee>
+                        <PayeeReference>test2</PayeeReference>
+                        <PaymentMethod>EFT</PaymentMethod>
+                        <PaymentApprovedDate>2020-02-02T23:05:17.367+10:00</PaymentApprovedDate>
+                        <PaymentCreatedDate>2020-02-03T00:00:00.000+10:00</PaymentCreatedDate>
+                        <isPaymentApproved>Yes</isPaymentApproved>
+                        <PaymentDescriptor>Expenses - Cash Amount</PaymentDescriptor>
+                        <PaymentDescriptorEnumId>71070002</PaymentDescriptorEnumId>
+                        <PaymentTypeEnumId>71008001</PaymentTypeEnumId>
+                        <PaymentType>Adhoc</PaymentType>
+                        <PaymentStatus>Active</PaymentStatus>
+                        <PaymentStatusEnumId>64256005</PaymentStatusEnumId>
+                        <PEStatus>PendingActive</PEStatus>
+                        <isStatisticalPayment>No</isStatisticalPayment>
+                        <Amount>3000.00</Amount>
+                        <AdjustedAmount>3000.00</AdjustedAmount>
+                        <GSTRate>20</GSTRate>
+                        <PayeesITCPercent>30.00</PayeesITCPercent>
+                        <PaymentAddress>Royal &amp; Ancient
+                            Forgan House, The Links
+                            ST. ANDREWS
+                            FIFE
+                            KY16 9JB</PaymentAddress>
+                        <EFTPaymentDetails>
+                            <InstitutionName>NATIONAL WESTMINSTER BANK PLC</InstitutionName>
+                            <BankBranchName>CARDIFF, QUEEN STREET (A)</BankBranchName>
+                            <BankCode>NWBK</BankCode>
+                            <AccountName>Mr Srikanth Behra</AccountName>
+                            <BankAccount>23989613</BankAccount>
+                            <BankSortCode>01-01-55</BankSortCode>
+                            <AccountType>Domestic Account</AccountType>
+                        </EFTPaymentDetails>
+                    </Payment>
+                    <Payment>
+                        <Payee>Mr Srikanth Behra</Payee>
+                        <PayeeReference>test3</PayeeReference>
+                        <PaymentMethod>EFT</PaymentMethod>
+                        <PaymentApprovedDate>2020-02-02T23:08:16.737+10:00</PaymentApprovedDate>
+                        <PaymentCreatedDate>2020-02-03T00:00:00.000+10:00</PaymentCreatedDate>
+                        <isPaymentApproved>Yes</isPaymentApproved>
+                        <PaymentDescriptor>Expenses - Cash Amount</PaymentDescriptor>
+                        <PaymentDescriptorEnumId>71070002</PaymentDescriptorEnumId>
+                        <PaymentTypeEnumId>71008001</PaymentTypeEnumId>
+                        <PaymentType>Adhoc</PaymentType>
+                        <PaymentStatus>Active</PaymentStatus>
+                        <PaymentStatusEnumId>64256005</PaymentStatusEnumId>
+                        <PEStatus>PendingActive</PEStatus>
+                        <isStatisticalPayment>No</isStatisticalPayment>
+                        <Amount>4000.00</Amount>
+                        <AdjustedAmount>4000.00</AdjustedAmount>
+                        <GSTRate>20</GSTRate>
+                        <PayeesITCPercent>30.00</PayeesITCPercent>
+                        <PaymentAddress>Royal &amp; Ancient
+                            Forgan House, The Links
+                            ST. ANDREWS
+                            FIFE
+                            KY16 9JB</PaymentAddress>
+                        <EFTPaymentDetails>
+                            <InstitutionName>NATIONAL WESTMINSTER BANK PLC</InstitutionName>
+                            <BankBranchName>CARDIFF, QUEEN STREET (A)</BankBranchName>
+                            <BankCode>NWBK</BankCode>
+                            <AccountName>Mr Srikanth Behra</AccountName>
+                            <BankAccount>23989613</BankAccount>
+                            <BankSortCode>01-01-55</BankSortCode>
+                            <AccountType>Domestic Account</AccountType>
+                        </EFTPaymentDetails>
+                    </Payment>
+                </Payments>
+                <Reserves>
+                    <Reserve>
+                        <ReserveTypeName>Legal Costs Coverage</ReserveTypeName>
+                        <ReserveTypeEnumId>72608140</ReserveTypeEnumId>
+                        <Reserve>1000.00</Reserve>
+                        <PaidToDate>0.00</PaidToDate>
+                        <BalanceOutstanding>1000.00</BalanceOutstanding>
+                    </Reserve>
+                    <Reserve>
+                        <ReserveTypeName>Legal Costs Defence</ReserveTypeName>
+                        <ReserveTypeEnumId>72608145</ReserveTypeEnumId>
+                        <Reserve>9000.00</Reserve>
+                        <PaidToDate>9000.00</PaidToDate>
+                        <BalanceOutstanding>0.00</BalanceOutstanding>
+                    </Reserve>
+                </Reserves>
+                <ReserveTotals>
+                    <RecoveredToDate>0.000000</RecoveredToDate>
+                    <Reserve>10000.000000</Reserve>
+                    <PaidToDate>9000.000000</PaidToDate>
+                    <NetReserve>1000.000000</NetReserve>
+                    <ApprovedToDate>0.000000</ApprovedToDate>
+                    <BalanceOutstanding>1000.000000</BalanceOutstanding>
+                    <ReserveCategory>
+                        <ReserveCategoryName>Property Expenses</ReserveCategoryName>
+                        <ReserveCategoryNameEnumId>72702005</ReserveCategoryNameEnumId>
+                        <TotalAmount>10000.00</TotalAmount>
+                        <ApprovedToDate>10000.00</ApprovedToDate>
+                        <PaidToDate>9000.00</PaidToDate>
+                        <BalanceOutstanding>1000.00</BalanceOutstanding>
+                    </ReserveCategory>
+                    <ReserveCategory>
+                        <ReserveCategoryName>Property Settlement</ReserveCategoryName>
+                        <ReserveCategoryNameEnumId>72702006</ReserveCategoryNameEnumId>
+                        <TotalAmount>0</TotalAmount>
+                        <ApprovedToDate>0</ApprovedToDate>
+                        <PaidToDate>0</PaidToDate>
+                        <BalanceOutstanding>0</BalanceOutstanding>
+                    </ReserveCategory>
+                </ReserveTotals>
+            </FinancialDetails>
+            <Participant>
+                <Role>Insured</Role>
+                <DateStarted>2020-02-03T00:00:00.000+10:00</DateStarted>
+                <Party>
+                    <CustomerNumber>3</CustomerNumber>
+                    <PartyName>Mr Srikanth Behra</PartyName>
+                    <Person>
+                        <Title>Mr</Title>
+                        <FirstName>Srikanth</FirstName>
+                        <LastName>Behra</LastName>
+                        <DateOfBirth>2020-01-01+10:00</DateOfBirth>
+                    </Person>
+                    <Address>
+                        <StreetAddress>Royal &amp; Ancient, Forgan House, The Links, ST. ANDREWS</StreetAddress>
+                        <Suburb>FIFE</Suburb>
+                        <PostCode>KY16 9JB</PostCode>
+                        <Country>United Kingdom</Country>
+                        <AsString>Royal &amp; Ancient, Forgan House, The Links, ST. ANDREWS, FIFE, United Kingdom, KY16 9JB</AsString>
+                    </Address>
+                    <PhoneNumber>04645645676</PhoneNumber>
+                    <PhoneNumberCountryCode>44</PhoneNumberCountryCode>
+                    <Email>srikanth_behra@gbtpa.com.au</Email>
+                </Party>
+            </Participant>
+            <Participant>
+                <Role>Insurer</Role>
+                <DateStarted>2020-02-03T00:00:00.000+10:00</DateStarted>
+                <Party>
+                    <CustomerNumber>252</CustomerNumber>
+                    <PartyName>Apollo Property Developers</PartyName>
+                    <Organisation>
+                        <ShortName>APOLLO</ShortName>
+                        <Name>Apollo Property Developers</Name>
+                        <ABN>APOLLO9786</ABN>
+                        <BankAccount>NWBK15655648</BankAccount>
+                    </Organisation>
+                    <Address>
+                        <StreetAddress>1807 Azalea Place Road, , South Hall</StreetAddress>
+                        <Suburb>London</Suburb>
+                        <PostCode>UB1 1DQ</PostCode>
+                        <Country>United Kingdom</Country>
+                        <AsString>1807 Azalea Place Road, , South Hall, London, United Kingdom, UB1 1DQ</AsString>
+                    </Address>
+                    <PhoneNumber>207337700</PhoneNumber>
+                    <PhoneNumberCountryCode>44</PhoneNumberCountryCode>
+                    <Email>websiteenquiries@sompocanopius.com</Email>
+                </Party>
+            </Participant>
+            <Participant>
+                <Role>Payee</Role>
+                <DateStarted>2020-02-03T00:00:00.000+10:00</DateStarted>
+                <Party>
+                    <CustomerNumber>3</CustomerNumber>
+                    <PartyName>Mr Srikanth Behra</PartyName>
+                    <Person>
+                        <Title>Mr</Title>
+                        <FirstName>Srikanth</FirstName>
+                        <LastName>Behra</LastName>
+                        <DateOfBirth>2020-01-01+10:00</DateOfBirth>
+                    </Person>
+                    <Address>
+                        <StreetAddress>Royal &amp; Ancient, Forgan House, The Links, ST. ANDREWS</StreetAddress>
+                        <Suburb>FIFE</Suburb>
+                        <PostCode>KY16 9JB</PostCode>
+                        <Country>United Kingdom</Country>
+                        <AsString>Royal &amp; Ancient, Forgan House, The Links, ST. ANDREWS, FIFE, United Kingdom, KY16 9JB</AsString>
+                    </Address>
+                    <PhoneNumber>04645645676</PhoneNumber>
+                    <PhoneNumberCountryCode>44</PhoneNumberCountryCode>
+                    <Email>srikanth_behra@gbtpa.com.au</Email>
+                </Party>
+            </Participant>
+        </Benefit>
+        <ClosureDate>2020-02-13T11:46:24.930+10:00</ClosureDate>
+        <ReopeningDate>2020-02-13T11:46:24.931+10:00</ReopeningDate>
+        <ReopeningReason></ReopeningReason>
+        <IncidentLocation>
+            <StreetAddress>10 Downing Street, South Normanton, ALFRETON</StreetAddress>
+            <Suburb>DERBYSHIRE</Suburb>
+            <PostCode>DE55 2HE</PostCode>
+            <Country>United Kingdom</Country>
+            <AsString>10 Downing Street, South Normanton, ALFRETON, DERBYSHIRE, United Kingdom, DE55 2HE</AsString>
+        </IncidentLocation>
+        <JurisdictionLocation>Unknown</JurisdictionLocation>
+    </Case>
+</ns3:Correspondence>

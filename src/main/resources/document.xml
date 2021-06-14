@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<documentEnvelope>
+    <envelopes>
+        <envelope>
+            <masterChannel>
+                <channelId>1</channelId>
+                <mimeType>text/html</mimeType>
+                <data>
+                    PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48IURPQ1RZUEUgaHRtbCBQVUJMSUMgIi0vL1czQy8vRFREIFhIVE1MIDEuMCBUcmFuc2l0aW9uYWwvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvVFIveGh0bWwxL0RURC94aHRtbDEtdHJhbnNpdGlvbmFsLmR0ZCI+CjxodG1sIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hodG1sIj48aGVhZD48bWV0YSBjb250ZW50PSJ0ZXh0L2NzcyIgaHR0cC1lcXVpdj0iY29udGVudC1zdHlsZS10eXBlIiAvPjxsaW5rIHR5cGU9InRleHQvY3NzIiBocmVmPSJodHRwczovL2diYm5ldmRzY20xLmRldi5nYmFwcmVzLmxvY2FsL3NtYXJ0Y29tbXMvY2xpZW50U2VydmljZXMvcmVzb3VyY2VzP3Jlc291cmNlTmFtZT0xNTg3MzU4MjkhMzAhMS5jc3MiIHJlbD0ic3R5bGVzaGVldCIgLz48dGl0bGU+R0IgQmFzaWM8L3RpdGxlPjxtZXRhIGNvbnRlbnQ9InRleHQvaHRtbDsgY2hhcnNldD1VVEYtOCIgaHR0cC1lcXVpdj0iQ29udGVudC1UeXBlIiAvPjwvaGVhZD48Ym9keT48dGFibGUgc3R5bGU9IndpZHRoOjEwMCU7IiBib3JkZXI9IjAiIGNlbGxwYWRkaW5nPSIwIiBjZWxsc3BhY2luZz0iMCI+PHRyPjx0ZD48dGFibGU+PHRyPjx0ZD48cCBjbGFzcz0iQm9keSI+RGVhciBNciBIYXJkaW5nLDwvcD48cCBjbGFzcz0iQm9keSI+wqA8L3A+PHAgY2xhc3M9IkhlYWRpbmciPkhvdyB0byBnZXQgaW4gdG91Y2ggd2l0aCB1czxiciAvPjwvcD48cCBjbGFzcz0iQm9keSI+RG8gbm90IGhlc2l0YXRlIHRvIGNvbnRhY3QgdXMgaWYgeW91IGhhdmUgYW55IHF1ZXN0aW9ucy4gUmVtZW1iZXIgdG8gcXVvdGUgdGhlIGNsYWltIG51bWJlciBpbiBhbGwgY29ycmVzcG9uZGVuY2Ugd2l0aCB1cy48L3A+PHAgY2xhc3M9IkJvZHkiPllvdSBjYW4gY2FsbCB1cyBvbiA8c3BhbiBjbGFzcz0iSGlnaGxpZ2h0Ij4mbHQ7UEhPTkVfTlVNQkVSJmd0Ozwvc3Bhbj4gb3IgZW1haWwgdXMgYXQgPHNwYW4gY2xhc3M9Imh5cGVybGluayI+bGlhYmlsaXR5Y2xhaW1zQGdidHBhLmNvbS5hdTwvc3Bhbj48c3BhbiBjbGFzcz0iSGlnaGxpZ2h0Ij48YnIgLz48L3NwYW4+PC9wPjxwIGNsYXNzPSJCb2R5Ij5Zb3UgY2FuIGFsc28gY29udGFjdCB1cyB2aWEgcG9zdCBvciBmYXguIFRoZXNlIGRldGFpbHMgYXJlIG5vdGVkIGJlbG93IGZvciB5b3VyIHJlZmVyZW5jZS48YnIgLz48L3A+PHAgY2xhc3M9IkJvZHkiPllvdXJzIGZhaXRoZnVsbHksPC9wPjxwIGNsYXNzPSJTaWduYXR1cmVfR0IxIj48Yj5VRlQgQXV0b21hdGlvbjwvYj4gPHNwYW4gY2xhc3M9IlNpZ25hdHVyZVNlcGFyYXRvciI+fDwvc3Bhbj4gVUZUIEF1dG9tYXRpb24gVG9vbCA8c3BhbiBjbGFzcz0iU2lnbmF0dXJlU2VwYXJhdG9yIj58PC9zcGFuPkdhbGxhZ2hlciBCYXNzZXR0IFNlcnZpY2VzIFB0eSBMdGQ8YnIgLz5HUE8gQm94IDE0LCBCcmlzYmFuZSBRTEQgNDAwMTxiciAvPjxzcGFuIGNsYXNzPSJCb2xkIj5QOjwvc3Bhbj4gPHNwYW4gY2xhc3M9IkhpZ2hsaWdodCI+Jmx0OyZsdDtQaG9uZV9OdW1iZXImZ3Q7Jmd0Ozwvc3Bhbj48c3BhbiBjbGFzcz0iU2lnbmF0dXJlU2VwYXJhdG9yIj58PC9zcGFuPiA8c3BhbiBjbGFzcz0iQm9sZCI+Rjo8L3NwYW4+ICs2MSA3IDMwMDUgMTk5OTxiciAvPjxzcGFuIGNsYXNzPSJCb2xkIj5FOiA8L3NwYW4+PHNwYW4gY2xhc3M9Imh5cGVybGluayI+PHU+bGlhYmlsaXR5Y2xhaW1zQGdidHBhLmNvbS5hdTwvdT48L3NwYW4+PHNwYW4gY2xhc3M9IlNpZ25hdHVyZVNlcGFyYXRvciI+ICB8IDwvc3Bhbj48c3BhbiBjbGFzcz0iQm9sZCI+Vzo8L3NwYW4+IDxzcGFuIGNsYXNzPSJoeXBlcmxpbmsiPnd3dy5nYWxsYWdoZXJiYXNzZXR0LmNvbS5hdTwvc3Bhbj48YnIgLz48cD48aW1nIHNyYz0iaHR0cHM6Ly9nYmJuZXZkc2NtMS5kZXYuZ2JhcHJlcy5sb2NhbC9zbWFydGNvbW1zL2NsaWVudFNlcnZpY2VzL3Jlc291cmNlcz9yZXNvdXJjZU5hbWU9MTU4NjU5Nzc2fjVmOTc3MjkuSlBFRyIgd2lkdGg9IjQwMCIgaGVpZ2h0PSIzMyIgLz48L3A+PC9wPjwvdGQ+PC90cj48L3RhYmxlPjwvdGQ+PC90cj48L3RhYmxlPjwvYm9keT48L2h0bWw+
+                </data>
+                <documentName>GEN_11-Reply-Corro</documentName>
+                <properties>
+                    <name>email.subject</name>
+                    <value>test subkjrgd</value>
+                </properties>
+                <properties>
+                    <name>email.address</name>
+                    <value>gavin_harding@gbtpa.com.au</value>
+                </properties>
+                <properties>
+                    <name>numAttachAllowed</name>
+                    <value>15</value>
+                </properties>
+                <properties>
+                    <name>print.config.resid</name>
+                    <value>157802064</value>
+                </properties>
+                <properties>
+                    <name>email.ccaddress</name>
+                    <value></value>
+                </properties>
+                <properties>
+                    <name>tooManyAttachments</name>
+                    <value>false</value>
+                </properties>
+                <properties>
+                    <name>attachmentCount</name>
+                    <value>0</value>
+                </properties>
+                <properties>
+                    <name>email.sender</name>
+                    <value>dodgy@dodgy.com</value>
+                </properties>
+                <properties>
+                    <name>attachmentSource</name>
+                    <value>https://process.dms.view:123456@gen89-si-esb.gbau.ajgco.com:443/process/dms/document/view/</value>
+                </properties>
+                <channelName>HTML Email</channelName>
+                <channelType>1</channelType>
+            </masterChannel>
+            <slaveChannels/>
+        </envelope>
+    </envelopes>
+    <exceptions/>
+    <numberTransactions>1</numberTransactions>
+</documentEnvelope>
